@@ -1,0 +1,398 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-02-04T05:06:23.654Z,28.7463,87.3785,10,5.1,mb,,64,0.93,0.47,us,us6000decu,2021-02-27T10:04:38.693Z,"104 km NNE of Lobujya, Nepal",earthquake,6,1.8,0.048,140,reviewed,us,us
+2021-02-02T16:14:13.363Z,28.8039,84.0135,29.41,4.5,mb,,126,2.605,0.62,us,us6000ddxt,2021-02-10T20:44:39.175Z,"52 km NE of Chitre, Nepal",earthquake,8.6,4.7,0.082,44,reviewed,us,us
+2021-02-02T02:31:14.188Z,28.815,87.3725,10.81,5.2,mb,,64,3.397,0.57,us,us6000ddsr,2021-02-11T05:22:54.867Z,"110 km NNE of Lobujya, Nepal",earthquake,7.7,3.4,0.051,125,reviewed,us,us
+2020-11-23T13:36:04.648Z,27.5457,87.0358,27.68,4.5,mb,,125,0.456,0.91,us,us7000ck3c,2021-02-03T17:49:19.040Z,"25 km NW of Khā̃dbāri̇̄, Nepal",earthquake,8.4,8.4,0.204,9,reviewed,us,us
+2020-11-21T21:49:21.520Z,30.1884,88.1002,10,4.5,mb,,65,2.491,0.64,us,us6000crcf,2021-02-03T17:51:09.040Z,"128 km NW of Rikaze, China",earthquake,5.9,1.5,0.101,29,reviewed,us,us
+2020-09-15T23:34:03.386Z,27.8464,85.8765,10,5.3,mb,,39,0.835,0.85,us,us7000bnsh,2020-11-21T20:10:45.040Z,"14 km SSW of Kodāri̇̄, Nepal",earthquake,5.6,1.8,0.033,309,reviewed,us,us
+2020-08-23T17:07:43.232Z,30.3934,87.5035,10,4.5,mb,,51,2.5,0.99,us,us6000bjg8,2020-10-31T19:06:20.040Z,"183 km NW of Rikaze, China",earthquake,7.8,1.9,0.079,47,reviewed,us,us
+2020-05-12T18:08:38.863Z,27.7046,86.0378,10,4.9,mb,,42,4.893,0.81,us,us70009ett,2020-07-29T22:14:40.040Z,"49 km E of Dhulikhel, Nepal",earthquake,7.8,1.8,0.041,202,reviewed,us,us
+2020-03-20T01:33:15.443Z,28.5896,87.3081,10,5.7,mww,,18,0.766,1.02,us,us70008cld,2020-06-06T20:53:55.040Z,"22km ESE of Xegar, China",earthquake,5.7,1.7,0.063,24,reviewed,us,us
+2019-11-27T16:23:31.706Z,27.7986,85.8214,10,4.6,mb,,96,0.891,0.69,us,us70006dt0,2020-02-19T18:58:13.040Z,"21km SW of Kodari, Nepal",earthquake,6.1,1.8,0.068,65,reviewed,us,us
+2019-11-19T13:30:55.900Z,29.3228,81.1433,10,5,mww,,33,5.163,0.63,us,us700069vd,2020-02-14T22:02:04.040Z,"20km ENE of Dipayal, Nepal",earthquake,7.9,1.8,0.103,9,reviewed,us,us
+2019-09-22T16:17:01.966Z,28.4605,84.3309,18.23,4.5,mb,,148,6.075,1.06,us,us70005nyj,2019-12-10T17:27:19.040Z,"12km SE of Chame, Nepal",earthquake,11.8,5.1,0.164,11,reviewed,us,us
+2019-09-16T14:33:25.773Z,29.691,80.7419,10,4.5,mb,,165,5.597,0.47,us,us70005h21,2019-12-05T18:31:10.040Z,"26km SE of Darchula, Nepal",earthquake,8.9,1.8,0.151,13,reviewed,us,us
+2019-08-27T09:57:51.030Z,28.9012,86.4476,10,4.5,mb,,88,0.992,1.18,us,us70005bgh,2019-11-15T17:18:47.040Z,"68km WNW of Xegar, China",earthquake,4.3,1.9,0.094,33,reviewed,us,us
+2019-06-17T17:58:20.595Z,28.4217,87.173,84.75,4.6,mb,,136,0.56,0.87,us,us600041vn,2019-09-06T14:25:18.040Z,"25km SSE of Xegar, China",earthquake,10.3,9.4,0.09,37,reviewed,us,us
+2019-05-26T02:09:27.242Z,30.3347,87.5686,10,4.8,mb,,66,2.458,1.26,us,us60003s9b,2019-08-13T14:30:37.040Z,"121km WSW of Jiajuedibu, China",earthquake,6.9,1.8,0.045,154,reviewed,us,us
+2019-05-26T01:44:55.302Z,30.3288,87.661,10,4.7,mb,,51,2.475,1.34,us,us60003s91,2019-08-13T14:30:37.040Z,"114km SW of Jiajuedibu, China",earthquake,8.4,1.9,0.06,84,reviewed,us,us
+2019-05-25T05:17:24.276Z,27.6468,86.3425,10,4.5,mb,,147,4.676,0.64,us,us60003s00,2019-08-13T14:30:35.040Z,"39km S of Zuobude, China",earthquake,9.8,1.9,0.075,52,reviewed,us,us
+2019-05-17T08:23:37.430Z,27.9487,84.7453,10,4.7,mb,,167,1.828,0.98,us,us70003mg6,2019-08-07T22:03:44.040Z,"42km NE of Bharatpur, Nepal",earthquake,9.1,1.9,0.083,44,reviewed,us,us
+2019-05-11T18:51:01.960Z,28.8684,81.5715,31.28,4.5,mb,,82,4.703,0.74,us,us70003jv2,2019-08-01T17:15:11.040Z,"13km W of Dailekh, Nepal",earthquake,7.7,3.8,0.062,77,reviewed,us,us
+2019-04-24T00:44:31.986Z,27.7651,85.0667,27.34,4.7,mb,,47,1.556,0.71,us,us70003b3q,2019-07-13T18:42:35.040Z,"22km WNW of Kirtipur, Nepal",earthquake,7,3.7,0.043,165,reviewed,us,us
+2019-04-12T09:27:50.400Z,30.1742,87.4938,10,4.5,mb,,76,3.188,0.9,us,us700034w6,2019-06-20T19:03:22.040Z,"108km NNE of Ngamring, China",earthquake,6.2,1.8,0.062,77,reviewed,us,us
+2019-01-20T15:06:39.170Z,30.3859,87.6754,9.97,4.7,mb,,83,2.533,0.72,us,us2000j6mj,2019-04-05T21:41:01.040Z,"110km WSW of Jiajuedibu, China",earthquake,6.4,3.6,0.067,67,reviewed,us,us
+2019-01-20T14:28:30.290Z,30.3908,87.6229,9.85,5.2,mb,,37,6.09,0.67,us,us2000j6mf,2019-04-05T21:41:01.040Z,"113km WSW of Jiajuedibu, China",earthquake,7.8,3.2,0.038,233,reviewed,us,us
+2018-12-23T19:36:56.920Z,30.1798,87.4547,10,4.9,mb,,93,2.283,1.21,us,us2000j2x3,2019-02-23T20:23:34.040Z,"108km NNE of Ngamring, China",earthquake,8.9,1.9,0.12,22,reviewed,us,us
+2018-12-23T19:32:22.060Z,30.4079,87.62,10,5.8,mww,,32,2.54,1.18,us,us2000iws8,2020-07-10T17:20:18.387Z,"113km WSW of Jiajuedibu, China",earthquake,2.6,1.7,0.061,26,reviewed,us,us
+2018-11-11T07:07:31.800Z,29.9248,80.6472,10,4.5,mb,,109,5.746,0.87,us,us1000hqj0,2019-01-21T16:42:58.040Z,"13km NE of Dharchula, India",earthquake,6,1.9,0.096,32,reviewed,us,us
+2018-10-31T23:09:01.530Z,30.2891,87.4647,10,5,mb,,63,3.23,0.93,us,us2000i4zp,2019-01-21T14:29:41.040Z,"120km NNE of Ngamring, China",earthquake,7.6,1.7,0.052,119,reviewed,us,us
+2018-10-31T01:49:29.220Z,30.3789,87.6483,10,4.7,mb,,52,2.52,0.95,us,us2000i4dg,2019-01-21T14:29:40.040Z,"112km WSW of Jiajuedibu, China",earthquake,8.1,1.8,0.053,108,reviewed,us,us
+2018-10-22T15:10:05.270Z,30.2176,87.6309,11.42,4.5,mb,,92,2.362,1.05,us,us1000hh32,2019-01-10T17:18:36.040Z,"111km NNW of Jiding, China",earthquake,10.7,3.7,0.171,16,reviewed,us,us
+2018-08-01T15:46:23.750Z,30.3493,87.6027,10,5.2,mww,,45,2.48,0.92,us,us2000gj0i,2018-10-16T15:34:18.040Z,"118km WSW of Jiajuedibu, China",earthquake,7.1,1.8,0.086,13,reviewed,us,us
+2018-06-28T04:07:47.290Z,27.8919,84.8272,10,4.8,mb,,96,1.757,0.51,us,us2000fpul,2018-09-21T16:25:47.040Z,"45km ENE of Bharatpur, Nepal",earthquake,7.6,1.9,0.048,131,reviewed,us,us
+2018-06-05T01:34:36.810Z,29.6464,81.6777,10,4.7,mb,,109,8.203,0.51,us,us1000eiq5,2018-08-29T16:33:52.040Z,"64km NW of Jumla, Nepal",earthquake,8.9,1.9,0.047,140,reviewed,us,us
+2018-03-01T17:27:17.180Z,30.362,87.6339,11.41,4.9,mb,,37,2.5,0.72,us,us2000d9t7,2018-05-27T01:06:07.040Z,"114km WSW of Jiajuedibu, China",earthquake,8.1,4.3,0.046,149,reviewed,us,us
+2017-12-08T02:51:18.860Z,27.7618,86.1471,10,5,mb,,40,4.781,0.68,us,us2000c1xk,2018-02-28T02:32:32.040Z,"28km SE of Kodari, Nepal",earthquake,8.5,1.8,0.046,151,reviewed,us,us
+2017-11-07T19:06:41.830Z,30.2645,87.4355,9.83,4.6,mb,,95,3.251,0.99,us,us2000bjyl,2018-01-31T03:04:42.040Z,"117km NNE of Ngamring, China",earthquake,4.3,4.2,0.065,72,reviewed,us,us
+2017-11-06T03:09:03.590Z,29.6127,81.2918,10,4.6,mb,,149,8.558,0.5,us,us2000bj36,2018-01-31T03:04:40.040Z,"51km NE of Dipayal, Nepal",earthquake,9.1,1.9,0.09,37,reviewed,us,us
+2017-08-22T00:50:35.830Z,29.3871,81.1558,10,4.6,mb,,64,7.96,0.77,us,us2000aah5,2017-11-22T03:43:28.040Z,"25km NE of Dipayal, Nepal",earthquake,9.1,1.9,0.078,49,reviewed,us,us
+2017-08-21T12:03:13.970Z,27.5881,86.1237,10,4.5,mb,,142,4.875,1.03,us,us2000aa5v,2017-11-22T03:43:27.040Z,"29km N of Ramechhap, Nepal",earthquake,7.1,1.8,0.079,47,reviewed,us,us
+2017-07-02T01:58:27.200Z,27.2384,86.1159,10,4.8,mb,,98,5.048,0.82,us,us100095t8,2017-10-03T00:47:44.040Z,"10km SSE of Ramechhap, Nepal",earthquake,8,1.9,0.054,107,reviewed,us,us
+2017-02-27T04:21:41.730Z,27.3706,85.9319,20.28,4.6,mb,,156,0.626,0.69,us,us20008mlv,2017-05-24T02:48:09.040Z,"16km WNW of Ramechhap, Nepal",earthquake,7.5,3.7,0.066,69,reviewed,us,us
+2017-02-27T03:37:45.990Z,27.4259,86.0789,11.23,4.7,mb,,57,0.725,0.62,us,us20008mll,2017-05-24T02:48:09.040Z,"11km N of Ramechhap, Nepal",earthquake,6,3.8,0.059,86,reviewed,us,us
+2017-02-26T18:48:45.660Z,30.2107,83.5019,10,4.7,mb,,95,6.635,1.22,us,us20008mji,2017-05-24T02:48:09.040Z,"89km NW of Zhadong, China",earthquake,6.3,1.9,0.082,46,reviewed,us,us
+2016-12-01T16:52:50.110Z,29.979,80.6321,31.96,5.2,mb,,41,4.687,0.76,us,us10007e1x,2017-02-23T00:11:55.040Z,"17km NNE of Dharchula, India",earthquake,7,4.4,0.047,152,reviewed,us,us
+2016-11-27T23:35:21.020Z,27.8015,86.5319,10,5.4,mb,,30,1.081,0.67,us,us10007cuh,2019-07-12T20:07:35.290Z,"17km W of Namche Bazar, Nepal",earthquake,5.3,1.7,0.033,314,reviewed,us,us
+2016-09-10T00:46:18.380Z,30.2163,82.6753,35,4.9,mb,,92,3.402,0.89,us,us10006nhy,2016-12-07T02:56:08.040Z,"114km NNE of Jumla, Nepal",earthquake,7.2,1.9,0.048,138,reviewed,us,us
+2016-06-29T09:10:28.860Z,29.5553,81.1306,9.03,4.6,mb,,77,4.111,0.46,us,us200067x7,2016-08-31T03:08:22.040Z,"37km NNE of Dipayal, Nepal",earthquake,7.2,2.7,0.077,50,reviewed,us,us
+2016-06-27T14:53:00.680Z,28.7638,87.4704,10,4.7,mb,,82,2.17,0.58,us,us10005z6t,2016-08-31T03:08:19.040Z,"40km ENE of Xegar, China",earthquake,7.7,1.8,0.082,45,reviewed,us,us
+2016-05-28T09:39:10.850Z,28.0097,85.4237,10,4.6,mb,,67,0.311,0.86,us,us20005ysr,2016-11-28T03:15:00.070Z,"34km NNW of Nagarkot, Nepal",earthquake,5.7,1.7,0.053,107,reviewed,us,us
+2016-05-22T02:05:54.680Z,28.5654,87.4796,4.44,5.1,mb,,39,2.091,0.71,us,us10005j6d,2016-08-03T22:33:41.040Z,"36km WNW of Gyangkar, China",earthquake,5.5,2.9,0.039,213,reviewed,us,us
+2016-05-22T01:48:48.130Z,28.4538,87.5326,9.36,5.4,mwc,,36,2.093,0.9,us,us10005j6b,2016-11-10T22:15:52.322Z,"26km WNW of Gyangkar, China",earthquake,6.5,3.5,,,reviewed,us,gcmt
+2016-05-22T01:32:31.690Z,28.4767,87.5067,6.99,4.5,mb,,89,2.08,0.73,us,us10005j69,2016-08-03T22:33:41.040Z,"29km WNW of Gyangkar, China",earthquake,6.9,4,0.067,66,reviewed,us,us
+2016-05-11T08:52:47.570Z,28.0545,84.5639,15.99,4.5,mb,,73,5.984,0.63,us,us10005ggl,2016-07-20T18:10:53.040Z,"26km SE of Lamjung, Nepal",earthquake,8.7,4.2,0.087,38,reviewed,us,us
+2016-05-11T01:19:42.320Z,27.9448,84.9277,10.23,4.5,mb,,104,0.414,1.04,us,us10005ihi,2016-07-20T18:10:52.040Z,"45km NW of Kirtipur, Nepal",earthquake,5.9,5.3,0.076,50,reviewed,us,us
+2016-02-24T09:22:16.670Z,27.8322,85.7365,10,4.7,mb,,49,0.391,0.71,us,us10004sb7,2016-05-03T23:44:20.040Z,"24km ENE of Nagarkot, Nepal",earthquake,6.5,1.9,0.073,57,reviewed,us,us
+2016-02-21T18:10:00.970Z,27.9633,84.6943,16.72,5.1,mb,,39,0.604,0.87,us,us10004rjm,2016-05-03T23:44:15.040Z,"40km NE of Bharatpur, Nepal",earthquake,7,4.5,0.059,94,reviewed,us,us
+2016-02-05T16:20:11.740Z,27.8782,85.3377,23.53,5.2,mb,,44,0.166,0.82,us,us20004y4t,2020-07-10T16:22:31.100Z,"19km N of Kathmandu, Nepal",earthquake,9.2,4.4,0.052,120,reviewed,us,us
+2016-01-21T19:22:43.590Z,28.0269,85.0515,19.01,4.5,mb,,96,0.391,0.81,us,us10004g5f,2016-04-06T17:30:30.040Z,"44km NW of Kathmandu, Nepal",earthquake,7.4,4.4,0.068,64,reviewed,us,us
+2015-12-18T22:16:56.550Z,29.3985,81.6541,10,5.4,mb,,34,3.632,0.8,us,us1000488j,2016-11-10T22:05:02.645Z,"51km NE of Achham, Nepal",earthquake,7.5,1.8,0.035,274,reviewed,us,us
+2015-11-24T12:24:15.590Z,28.1552,84.7587,8.19,4.6,mb,,60,0.661,0.96,us,us100040q1,2016-02-18T04:48:52.040Z,"39km E of Lamjung, Nepal",earthquake,6.2,4.5,0.079,48,reviewed,us,us
+2015-11-19T04:15:52.600Z,27.8525,85.6776,16.51,5,mb,,49,0.349,0.79,us,us10003zfw,2016-02-18T04:48:42.040Z,"21km NE of Nagarkot, Nepal",earthquake,6.5,3.9,0.053,115,reviewed,us,us
+2015-10-12T15:39:07.360Z,28.9796,86.3729,10,4.5,mb,,57,1.088,0.79,us,us10003n1q,2016-01-11T21:07:22.040Z,"79km WNW of Xegar, China",earthquake,2.4,1.8,0.066,67,reviewed,us,us
+2015-10-09T20:29:56.020Z,28.8544,86.469,10,4.9,mb,,60,0.942,0.96,us,us10003mkt,2016-01-11T21:07:17.040Z,"64km WNW of Xegar, China",earthquake,4.8,1.8,0.046,149,reviewed,us,us
+2015-10-05T07:33:21.920Z,27.6395,86.0343,10,4.5,mb,,138,0.641,0.92,us,us10003kcl,2016-01-04T22:29:12.040Z,"35km SSE of Kodari, Nepal",earthquake,6.4,1.8,0.07,60,reviewed,us,us
+2015-09-29T09:27:17.090Z,29.996,80.3737,35,4.6,mb,,126,4.895,1.05,us,us10003iqz,2015-12-28T23:08:49.040Z,"22km NW of Darchula, Nepal",earthquake,8.8,1.5,0.083,43,reviewed,us,us
+2015-08-30T13:17:34.680Z,27.6519,85.6673,10,4.5,mb,,83,0.317,0.67,us,us1000365l,2015-12-01T00:36:04.040Z,"14km E of Banepa, Nepal",earthquake,4.6,1.8,0.06,81,reviewed,us,us
+2015-08-23T09:02:05.080Z,27.8355,86.0795,10,5,mb,,51,0.659,0.63,us,us100034be,2015-11-24T02:09:30.040Z,"18km SE of Kodari, Nepal",earthquake,7.6,1.7,0.044,166,reviewed,us,us
+2015-08-15T18:11:39.530Z,27.7023,85.9473,10,4.7,mb,,75,0.56,0.86,us,us100032lr,2015-11-17T00:13:30.040Z,"27km S of Kodari, Nepal",earthquake,5.1,1.7,0.052,111,reviewed,us,us
+2015-08-14T13:02:26.290Z,27.5691,86.086,10,4.6,mb,,144,0.698,1.04,us,us100036bf,2015-11-17T00:13:27.040Z,"26km N of Ramechhap, Nepal",earthquake,5.3,2,0.182,9,reviewed,us,us
+2015-07-03T20:04:07.080Z,27.7236,84.9064,3.36,4.5,mb,,93,0.362,0.86,us,us10002nbj,2015-09-30T00:20:54.040Z,"34km NNW of Hitura, Nepal",earthquake,7.2,4.2,0.065,69,reviewed,us,us
+2015-06-28T23:57:15.530Z,28.0316,86.056,10,4.7,mb,,94,0.728,1.26,us,us10002m90,2015-09-02T22:37:23.040Z,"8km NE of Zham, China",earthquake,6.8,1.9,0.062,78,reviewed,us,us
+2015-06-20T12:23:05.580Z,28.5523,82.6319,10,4.7,mb,,92,2.513,0.61,us,us10002khh,2015-09-01T00:53:51.040Z,"49km ENE of Salyan, Nepal",earthquake,8.2,1.8,0.056,97,reviewed,us,us
+2015-06-13T01:18:30.200Z,27.6326,86.0709,10,4.8,mb,,40,0.674,0.68,us,us20002pk4,2015-08-20T00:43:55.040Z,"34km N of Ramechhap, Nepal",earthquake,6.6,1.9,0.057,94,reviewed,us,us
+2015-06-11T16:12:20.290Z,27.8321,85.5836,24.49,4.8,mb,,76,0.265,0.61,us,us20002p1y,2015-08-20T00:43:54.040Z,"14km NNE of Nagarkot, Nepal",earthquake,8,1.4,0.052,114,reviewed,us,us
+2015-05-29T10:00:00.270Z,27.9798,84.7819,10,4.8,mb,,41,0.542,0.91,us,us20002kau,2015-08-08T00:49:02.040Z,"47km NE of Bharatpur, Nepal",earthquake,6.7,1.6,0.052,112,reviewed,us,us
+2015-05-26T17:07:14.360Z,28.2338,85.1005,10,4.6,mb,,71,0.553,1.05,us,us10002c8p,2015-07-29T01:35:46.040Z,"62km NNW of Kathmandu, Nepal",earthquake,6.6,1.9,0.06,83,reviewed,us,us
+2015-05-22T10:59:33.780Z,27.9555,84.9671,10,4.7,mb,,41,0.392,0.88,us,us10002bcr,2015-07-29T01:35:33.040Z,"43km NW of Kirtipur, Nepal",earthquake,5.5,1.7,0.056,97,reviewed,us,us
+2015-05-20T09:02:32.260Z,27.3231,85.0483,10,4.6,mb,,145,5.85,0.81,us,us10002ar2,2015-07-23T01:04:13.040Z,"11km S of Hitura, Nepal",earthquake,6.8,1.7,0.077,52,reviewed,us,us
+2015-05-16T11:34:09.980Z,27.5603,86.0734,7,5.5,mww,,13,4.928,0.72,us,us100029rn,2020-07-10T14:39:34.778Z,"26km N of Ramechhap, Nepal",earthquake,7.5,1.7,,,reviewed,us,us
+2015-05-16T03:39:26.920Z,27.6386,85.713,10,4.7,mb,,40,5.182,0.55,us,us100029pb,2015-07-23T01:04:02.040Z,"18km E of Banepa, Nepal",earthquake,7.9,1.8,0.051,119,reviewed,us,us
+2015-05-15T01:42:42.800Z,27.9719,84.7499,10,4.9,mb,,40,1.823,0.91,us,us1000295r,2015-07-23T01:03:59.040Z,"44km NE of Bharatpur, Nepal",earthquake,8.1,1.8,0.047,145,reviewed,us,us
+2015-05-13T21:38:06.390Z,27.7199,86.0503,8.38,5,mb,,40,0.715,0.65,us,us100028tz,2015-07-17T07:06:15.040Z,"27km SSE of Kodari, Nepal",earthquake,6.5,4.3,0.046,150,reviewed,us,us
+2015-05-13T06:53:00.780Z,27.7201,86.1891,10,4.8,mb,,88,0.6,0.73,us,us20002ew5,2015-07-17T07:06:14.040Z,"32km SSW of Camgyai, China",earthquake,8.7,1.9,0.059,87,reviewed,us,us
+2015-05-13T06:37:30.290Z,27.7582,86.1379,10,4.5,mb,,146,0.629,0.93,us,us20002ew1,2015-07-17T07:06:14.040Z,"28km SE of Kodari, Nepal",earthquake,7.5,1.9,0.08,46,reviewed,us,us
+2015-05-13T06:26:07.550Z,27.6539,86.1557,10,4.7,mb,,118,0.655,0.69,us,us20002evz,2015-07-17T07:06:14.040Z,"36km N of Ramechhap, Nepal",earthquake,6.7,1.9,0.061,89,reviewed,us,us
+2015-05-12T21:25:11.930Z,27.783,84.6384,10,5.2,mb,,38,1.932,0.62,us,us20002etn,2015-07-17T07:06:14.040Z,"23km ENE of Bharatpur, Nepal",earthquake,6,1.8,0.051,125,reviewed,us,us
+2015-05-12T19:37:40.910Z,27.6868,86.1308,8.52,4.5,mb,,101,0.661,1.01,us,us20002ert,2015-07-17T07:06:13.040Z,"34km SSE of Kodari, Nepal",earthquake,5,4.1,0.066,67,reviewed,us,us
+2015-05-12T17:28:39.250Z,27.4989,86.1266,10,4.8,mb,,44,0.76,0.75,us,us20002eqs,2015-07-17T07:06:12.040Z,"19km NNE of Ramechhap, Nepal",earthquake,7.4,1.8,0.048,135,reviewed,us,us
+2015-05-12T13:58:57.540Z,27.6013,86.2659,10,4.5,mb,,142,0.6,0.37,us,us10002bgb,2015-07-17T07:06:12.040Z,"35km NNE of Ramechhap, Nepal",earthquake,4.9,1.9,0.18,9,reviewed,us,us
+2015-05-12T12:28:22.930Z,27.6751,85.9931,10,4.5,mb,,101,0.778,1.21,us,us20002ena,2015-07-17T07:06:12.040Z,"31km S of Kodari, Nepal",earthquake,4.6,1.9,0.091,35,reviewed,us,us
+2015-05-12T10:41:32.260Z,27.716,86.2746,10,4.5,mb,,153,0.533,1.07,us,us10002bg8,2015-07-17T07:06:12.040Z,"31km S of Zuobude, China",earthquake,6.4,1.9,0.094,33,reviewed,us,us
+2015-05-12T10:40:07.870Z,27.7987,86.4044,10,4.6,mb,,145,0.394,0.46,us,us10002bh9,2015-07-17T07:06:12.040Z,"24km SSE of Zuobude, China",earthquake,6.9,1.9,0.223,6,reviewed,us,us
+2015-05-12T10:35:39.950Z,27.6606,86.0849,10,4.5,mb,,38,0.708,1.11,us,us20002ems,2015-07-17T07:06:12.040Z,"35km SSE of Kodari, Nepal",earthquake,6.4,1.8,0.075,53,reviewed,us,us
+2015-05-12T09:38:19.460Z,27.6658,86.2505,10,4.5,mb,,194,0.576,0.3,us,us10002bfm,2015-07-17T07:06:11.040Z,"37km S of Zuobude, China",earthquake,7.5,2,0.242,5,reviewed,us,us
+2015-05-12T09:02:09.780Z,27.7318,86.0672,10,4.6,mb,,79,0.696,0.78,us,us10002bfi,2015-07-17T07:06:11.040Z,"27km SSE of Kodari, Nepal",earthquake,6.9,1.8,0.083,43,reviewed,us,us
+2015-05-12T08:59:39.740Z,27.7729,86.195,10,4.5,mb,,149,0.576,1.06,us,us20002emb,2015-07-17T07:06:11.040Z,"27km SSW of Zuobude, China",earthquake,4.2,1.9,0.081,51,reviewed,us,us
+2015-05-12T08:24:24.340Z,27.7486,86.0692,10,4.8,mb,,80,0.689,0.37,us,us100029fv,2015-07-17T07:06:11.040Z,"25km SSE of Kodari, Nepal",earthquake,3.2,1.9,0.058,93,reviewed,us,us
+2015-05-12T08:21:10.760Z,27.7298,86.1316,15,5.2,mb,,42,0.643,0.7,us,us20002ekr,2015-07-17T07:06:11.040Z,"30km SE of Kodari, Nepal",earthquake,6.7,1.8,0.043,175,reviewed,us,us
+2015-05-12T08:13:54.600Z,27.7629,85.7574,15,5.1,mb,,49,0.953,0.64,us,us20002ekq,2015-07-17T07:06:11.040Z,"23km ENE of Nagarkot, Nepal",earthquake,8.3,1.8,0.046,152,reviewed,us,us
+2015-05-12T08:06:05.530Z,27.7221,86.0161,15,5,mb,,42,0.742,0.78,us,us20002ekk,2015-07-17T07:06:11.040Z,"26km SSE of Kodari, Nepal",earthquake,5.7,1.8,0.044,168,reviewed,us,us
+2015-05-12T07:57:17.360Z,27.7351,86.5554,10,4.5,mb,,156,0.317,0.88,us,us10002bf9,2015-07-17T07:06:11.040Z,"17km WSW of Namche Bazar, Nepal",earthquake,6.2,1.9,0.102,31,reviewed,us,us
+2015-05-12T07:48:51.490Z,27.7224,86.2576,10,4.9,mb,,78,0.544,0.7,us,us10002bh3,2015-07-17T07:06:11.040Z,"31km S of Zuobude, China",earthquake,6.9,1.9,0.055,103,reviewed,us,us
+2015-05-12T07:47:46.350Z,27.5579,86.039,10,4.9,mb,,80,0.792,0.73,us,us10002bg4,2015-07-17T07:06:11.040Z,"26km N of Ramechhap, Nepal",earthquake,5.1,1.8,0.054,106,reviewed,us,us
+2015-05-12T07:43:17.310Z,27.6521,86.2387,11.77,4.9,mb,,70,0.592,0.49,us,us100029fi,2015-07-17T07:06:11.040Z,"39km NNE of Ramechhap, Nepal",earthquake,5.7,4.5,0.064,77,reviewed,us,us
+2015-05-12T07:36:54.490Z,27.625,86.1617,15,6.3,mww,,10,0.664,0.93,us,us20002ek5,2020-07-10T16:10:36.099Z,"33km NNE of Ramechhap, Nepal",earthquake,7.5,1.7,,,reviewed,us,us
+2015-05-12T07:34:22.630Z,27.7458,86.2449,10,5.4,mb,,45,0.544,0.78,us,us20002ek3,2015-07-17T07:06:10.040Z,"28km S of Camgyai, China",earthquake,6.3,1.8,0.042,196,reviewed,us,us
+2015-05-12T07:23:32.670Z,27.5589,86.2566,10,5,mb,,243,0.632,0.36,us,us10002bgy,2015-07-17T07:06:10.040Z,"30km NNE of Ramechhap, Nepal",earthquake,6.7,2,0.096,35,reviewed,us,us
+2015-05-12T07:22:15.290Z,27.5796,86.2338,10,4.8,mb,,48,0.636,0.62,us,us10002bg0,2015-07-17T07:06:10.040Z,"31km NNE of Ramechhap, Nepal",earthquake,6.9,1.9,0.089,39,reviewed,us,us
+2015-05-12T07:20:47.170Z,27.3073,86.2369,10,4.9,mb,,100,0.825,0.65,us,us10002bfy,2015-07-17T07:06:10.040Z,"14km E of Ramechhap, Nepal",earthquake,7.2,1.9,0.09,43,reviewed,us,us
+2015-05-12T07:17:20.640Z,27.7141,86.2177,13.01,5.5,mb,,66,0.579,0.89,us,us20002ek0,2020-07-10T16:10:24.635Z,"32km SSW of Camgyai, China",earthquake,6.8,4.7,0.043,183,reviewed,us,us
+2015-05-12T07:05:19.730Z,27.8087,86.0655,15,7.3,mww,,11,0.677,0.92,us,us20002ejl,2020-07-07T22:47:55.191Z,"19km SE of Kodari, Nepal",earthquake,7.4,1.7,,,reviewed,us,us
+2015-05-08T00:32:33.960Z,27.6418,85.979,11.56,4.9,mb,,77,0.802,0.66,us,us20002dn5,2015-07-17T07:05:57.040Z,"34km S of Kodari, Nepal",earthquake,5.7,4.2,0.044,164,reviewed,us,us
+2015-05-04T01:15:07.070Z,27.6326,85.9746,10,4.5,mb,,54,0.809,0.89,us,us20002b2y,2015-07-09T22:00:09.040Z,"35km S of Kodari, Nepal",earthquake,6,1.8,0.066,66,reviewed,us,us
+2015-05-02T05:35:46.930Z,28.3143,84.6576,10,4.9,mb,,91,1.935,0.86,us,us20002atq,2015-07-09T22:00:06.040Z,"29km E of Khudi, Nepal",earthquake,7.9,1.8,0.058,93,reviewed,us,us
+2015-04-29T22:10:52.110Z,28.33,87.2319,10,4.5,mb,,55,3.675,0.85,us,us20002abh,2015-07-03T00:23:48.040Z,"36km SSE of Xegar, China",earthquake,6.7,1.9,0.062,75,reviewed,us,us
+2015-04-29T11:27:45.310Z,27.864,85.4086,10,4.6,mb,,94,5.342,0.59,us,us20002a59,2015-07-03T00:23:47.040Z,"19km NNE of Kathmandu, Nepal",earthquake,8.6,1.8,0.06,83,reviewed,us,us
+2015-04-27T18:59:57.010Z,28.0066,84.682,21.35,4.8,mb,,61,1.884,0.74,us,us200029ma,2015-07-03T00:23:44.040Z,"38km SE of Lamjung, Nepal",earthquake,3.9,4.5,0.055,102,reviewed,us,us
+2015-04-27T12:35:53.930Z,26.8644,88.055,31.71,5.1,mb,,29,2.58,0.73,us,us200029k7,2015-07-03T00:23:44.040Z,"13km ESE of Ilam, Nepal",earthquake,6.6,3.3,0.041,201,reviewed,us,us
+2015-04-26T22:32:34.720Z,27.5298,85.6751,10,4.6,mb,,69,1.094,0.53,us,us200029gc,2015-07-03T00:23:43.040Z,"17km ESE of Panaoti, Nepal",earthquake,4.7,1.7,0.07,61,reviewed,us,us
+2015-04-26T16:26:06.730Z,27.8297,85.865,14,5,mwb,,22,0.847,0.73,us,us200029ea,2015-07-03T00:23:42.040Z,"15km SSW of Kodari, Nepal",earthquake,5.6,1.7,0.044,50,reviewed,us,us
+2015-04-26T14:44:50.510Z,27.686,85.9657,10,4.5,mb,,149,0.797,0.71,us,us200029dv,2015-07-03T00:23:42.040Z,"29km S of Kodari, Nepal",earthquake,4.9,1.9,0.081,45,reviewed,us,us
+2015-04-26T13:11:15.170Z,27.8112,85.4088,10,4.5,mb,,79,5.362,0.6,us,us200029dc,2015-07-03T00:23:42.040Z,"14km NE of Kathmandu, Nepal",earthquake,8.9,1.9,0.069,61,reviewed,us,us
+2015-04-26T08:40:55.820Z,27.7307,85.854,10,4.6,mb,,85,0.877,0.91,us,us200029c4,2015-07-03T00:23:42.040Z,"26km SSW of Kodari, Nepal",earthquake,6.2,1.8,0.062,77,reviewed,us,us
+2015-04-26T07:36:26.570Z,27.7555,85.9822,10,4.7,mb,,141,0.761,0.72,us,us200029by,2015-07-03T00:23:41.040Z,"22km S of Kodari, Nepal",earthquake,6.5,1.9,0.079,49,reviewed,us,us
+2015-04-26T07:26:04.190Z,27.7004,85.9136,10,4.9,mb,,40,0.835,0.57,us,us200029bx,2015-07-03T00:23:41.040Z,"28km S of Kodari, Nepal",earthquake,5.1,1.8,0.055,102,reviewed,us,us
+2015-04-26T07:09:10.670Z,27.7711,86.0173,22.91,6.7,mww,,13,0.727,0.86,us,us200029bt,2020-07-10T16:06:53.500Z,"21km SSE of Kodari, Nepal",earthquake,6.6,2.9,,,reviewed,us,us
+2015-04-26T04:58:40.040Z,27.9966,84.7082,10,4.5,mb,,125,1.86,1.05,us,us200029bl,2015-07-03T00:23:41.040Z,"41km SE of Lamjung, Nepal",earthquake,9.5,1.9,0.086,42,reviewed,us,us
+2015-04-26T02:48:39.070Z,28.2272,84.5858,10,4.5,mb,,62,1.984,0.87,us,us200029b1,2015-07-03T00:23:41.040Z,"21km E of Lamjung, Nepal",earthquake,8.7,1.9,0.065,70,reviewed,us,us
+2015-04-25T23:41:53.750Z,27.6678,86.0726,15.68,4.5,mb,,86,0.715,0.71,us,us2000299x,2015-07-03T00:23:41.040Z,"33km SSE of Kodari, Nepal",earthquake,5.5,2.9,0.057,91,reviewed,us,us
+2015-04-25T23:16:15.450Z,27.7993,84.8715,13.61,5.1,mww,,26,1.724,0.67,us,us2000299v,2015-07-03T00:23:41.040Z,"41km WNW of Kirtipur, Nepal",earthquake,7,3.1,,,reviewed,us,us
+2015-04-25T21:07:20.000Z,27.7657,85.8114,23.88,4.6,mb,,86,0.906,0.69,us,us20002993,2015-07-03T00:23:41.040Z,"24km SSW of Kodari, Nepal",earthquake,4.9,4.4,0.051,117,reviewed,us,us
+2015-04-25T17:46:17.590Z,28.2139,86.1072,35.26,4.5,mb,,182,0.672,1.33,us,us20002bir,2015-07-03T00:23:40.040Z,"15km ENE of Chongdui, China",earthquake,13,17.1,0.272,5,reviewed,us,us
+2015-04-25T17:42:50.910Z,28.238,85.829,10,5.1,mwr,,31,0.911,0.99,us,us2000297g,2015-07-03T00:23:40.040Z,"16km NW of Chongdui, China",earthquake,5.7,1.7,0.11,8,reviewed,us,us
+2015-04-25T16:27:21.660Z,27.8695,85.6359,10,4.9,mb,,76,1.044,0.89,us,us20002970,2015-07-03T00:23:40.040Z,"20km NNE of Nagarkot, Nepal",earthquake,3.2,1.8,0.047,143,reviewed,us,us
+2015-04-25T14:10:03.730Z,27.7109,85.8748,10,4.6,mb,,72,0.865,0.78,us,us20002965,2015-07-03T00:23:40.040Z,"27km SSW of Kodari, Nepal",earthquake,5.5,1.7,0.077,50,reviewed,us,us
+2015-04-25T13:36:14.620Z,27.7266,85.9826,10,4.7,mb,,166,0.769,0.98,us,us2000295x,2015-07-03T00:23:40.040Z,"25km S of Kodari, Nepal",earthquake,3.2,1.9,0.079,48,reviewed,us,us
+2015-04-25T13:30:28.030Z,28.0768,85.0378,10,4.6,mb,,86,1.572,1.22,us,us2000295v,2015-07-03T00:23:40.040Z,"49km NNW of Kirtipur, Nepal",earthquake,7.8,1.9,0.084,42,reviewed,us,us
+2015-04-25T12:44:05.170Z,28.0979,84.5594,10,5.2,mb,,39,1.995,0.91,us,us2000295i,2015-07-03T00:23:40.040Z,"22km ESE of Lamjung, Nepal",earthquake,4,1.8,0.038,234,reviewed,us,us
+2015-04-25T12:17:54.790Z,27.9261,85.449,10,4.5,mb,,79,1.206,0.88,us,us2000295f,2015-07-03T00:23:40.040Z,"24km NNW of Nagarkot, Nepal",earthquake,7.6,1.9,0.069,61,reviewed,us,us
+2015-04-25T11:23:47.560Z,27.6483,85.4309,10,4.5,mb,,46,1.261,0.68,us,us20002bgs,2015-07-03T00:23:40.040Z,"2km S of Bhaktapur, Nepal",earthquake,8,1.9,0.096,32,reviewed,us,us
+2015-04-25T10:53:43.530Z,27.8061,85.8842,10,4.6,mb,,52,0.835,0.75,us,us2000294y,2015-07-03T00:23:40.040Z,"17km SSW of Kodari, Nepal",earthquake,6,1.9,0.065,70,reviewed,us,us
+2015-04-25T10:40:35.550Z,27.6033,85.9565,10,4.8,mb,,43,0.836,0.81,us,us2000294x,2015-07-03T00:23:40.040Z,"33km NNW of Ramechhap, Nepal",earthquake,5.9,1.9,0.047,141,reviewed,us,us
+2015-04-25T09:30:29.690Z,27.9945,85.5209,10,4.9,mb,,42,1.142,0.68,us,us2000294i,2015-07-03T00:23:40.040Z,"30km N of Nagarkot, Nepal",earthquake,6.8,1.8,0.043,173,reviewed,us,us
+2015-04-25T09:22:36.900Z,27.7192,85.7503,10,4.7,mb,,50,0.969,0.81,us,us20002bg6,2015-07-03T00:23:39.040Z,"22km E of Nagarkot, Nepal",earthquake,5.3,1.9,0.088,39,reviewed,us,us
+2015-04-25T09:17:02.310Z,28.3902,87.3173,10,5.7,mb,,22,0.619,0.7,us,us2000294g,2020-07-10T16:06:42.582Z,"35km SE of Xegar, China",earthquake,5.8,1.4,0.033,328,reviewed,us,us
+2015-04-25T09:03:14.960Z,27.8743,85.3426,10,4.8,mb,,82,1.302,0.61,us,us2000294e,2015-07-03T00:23:39.040Z,"19km N of Kathmandu, Nepal",earthquake,7.3,1.8,0.055,102,reviewed,us,us
+2015-04-25T08:55:55.960Z,27.5866,85.5058,10,5.3,mb,,41,1.215,0.8,us,us2000294d,2015-07-03T00:23:39.040Z,"0km NW of Panaoti, Nepal",earthquake,6.6,1.8,0.045,168,reviewed,us,us
+2015-04-25T08:31:32.430Z,27.6708,85.9539,10,4.6,mb,,166,0.812,0.78,us,us20002bgc,2015-07-03T00:23:39.040Z,"31km S of Kodari, Nepal",earthquake,7.2,1.9,0.107,26,reviewed,us,us
+2015-04-25T08:29:24.560Z,27.9351,84.6218,10,5,mb,,99,1.937,0.68,us,us20002946,2015-07-03T00:23:39.040Z,"33km NNE of Bharatpur, Nepal",earthquake,8.2,1.8,0.05,129,reviewed,us,us
+2015-04-25T08:22:47.620Z,27.8166,85.5666,10,4.6,mb,,149,1.111,0.66,us,us20002bik,2015-07-03T00:23:39.040Z,"12km NNE of Nagarkot, Nepal",earthquake,8.6,1.9,0.1,30,reviewed,us,us
+2015-04-25T08:20:48.800Z,27.6429,85.16,10,4.9,mb,,69,1.496,0.79,us,us20002bfd,2015-07-03T00:23:39.040Z,"12km WSW of Kirtipur, Nepal",earthquake,7.2,1.8,0.057,96,reviewed,us,us
+2015-04-25T08:20:11.160Z,27.8549,85.7931,10,4.7,mb,,82,0.907,0.72,us,us20002944,2015-07-03T00:23:39.040Z,"18km SW of Kodari, Nepal",earthquake,4.2,1.8,0.063,76,reviewed,us,us
+2015-04-25T08:16:59.230Z,27.7014,85.7563,10,4.9,mb,,76,0.969,0.55,us,us20002942,2015-07-03T00:23:39.040Z,"23km E of Nagarkot, Nepal",earthquake,6.2,1.8,0.051,123,reviewed,us,us
+2015-04-25T08:05:37.950Z,27.8132,85.7943,10,4.6,mb,,104,0.912,0.75,us,us2000293v,2015-07-03T00:23:39.040Z,"21km SW of Kodari, Nepal",earthquake,5.6,1.4,0.058,90,reviewed,us,us
+2015-04-25T07:47:01.480Z,27.8172,85.5955,10,5,mb,,79,1.085,0.59,us,us2000293p,2015-07-03T00:23:39.040Z,"13km NNE of Nagarkot, Nepal",earthquake,6.9,1.8,0.052,118,reviewed,us,us
+2015-04-25T07:39:33.970Z,27.6821,85.7383,10,4.5,mb,,99,0.989,0.66,us,us2000293l,2015-07-03T00:23:39.040Z,"21km E of Nagarkot, Nepal",earthquake,6.5,1.3,0.076,51,reviewed,us,us
+2015-04-25T07:16:55.060Z,27.8818,85.6791,10,4.7,mb,,81,1.005,0.85,us,us2000293d,2015-07-03T00:23:39.040Z,"24km NE of Nagarkot, Nepal",earthquake,3.1,1.8,0.064,75,reviewed,us,us
+2015-04-25T07:13:44.150Z,27.615,85.7307,10,4.8,mb,,105,1.017,0.72,us,us2000293i,2015-07-03T00:23:39.040Z,"20km E of Banepa, Nepal",earthquake,6.4,1.5,0.07,63,reviewed,us,us
+2015-04-25T07:07:59.920Z,27.7879,85.914,10,4.9,mb,,57,0.812,0.73,us,us20002939,2015-07-03T00:23:39.040Z,"18km S of Kodari, Nepal",earthquake,6,1.8,0.054,108,reviewed,us,us
+2015-04-25T06:58:27.570Z,27.7219,86.0061,10,5.1,mb,,76,0.751,0.55,us,us20002bfz,2015-07-03T00:23:39.040Z,"26km SSE of Kodari, Nepal",earthquake,6.8,1.8,0.077,55,reviewed,us,us
+2015-04-25T06:56:33.860Z,27.8822,85.7505,10,5.5,mb,,39,0.942,0.65,us,us20002934,2020-07-10T16:06:32.346Z,"20km WSW of Kodari, Nepal",earthquake,3,1.8,0.053,123,reviewed,us,us
+2015-04-25T06:53:42.750Z,27.672,85.2009,10,5,mb,,42,1.455,0.65,us,us20002bf3,2015-07-03T00:23:39.040Z,"7km W of Kirtipur, Nepal",earthquake,8,1.8,0.095,35,reviewed,us,us
+2015-04-25T06:45:21.320Z,28.2244,84.8216,10,6.6,mww,,16,1.778,0.64,us,us2000292y,2020-07-10T16:06:17.489Z,"44km E of Lamjung, Nepal",earthquake,7.4,1.7,,,reviewed,us,us
+2015-04-25T06:44:39.040Z,27.5862,85.5012,10,4.6,mb,,117,1.219,1.14,us,us20002bim,2015-07-03T00:23:39.040Z,"1km WNW of Panaoti, Nepal",earthquake,5,1.9,0.114,23,reviewed,us,us
+2015-04-25T06:37:58.690Z,27.7435,85.8302,10,5.1,mb,,76,0.895,0.65,us,us2000292w,2015-07-03T00:23:39.040Z,"25km SSW of Kodari, Nepal",earthquake,4.2,1.8,0.057,101,reviewed,us,us
+2015-04-25T06:32:48.870Z,27.7244,85.9479,10,4.6,mb,,128,0.799,1.07,us,us20002bfx,2015-07-03T00:23:39.040Z,"25km S of Kodari, Nepal",earthquake,8,1.9,0.126,19,reviewed,us,us
+2015-04-25T06:29:46.130Z,27.8478,85.0717,10,4.7,mb,,98,1.543,0.58,us,us20002bfi,2015-07-03T00:23:39.040Z,"27km NW of Kirtipur, Nepal",earthquake,8.4,1.9,0.159,12,reviewed,us,us
+2015-04-25T06:28:05.780Z,27.7006,85.5043,10,4.8,mb,,75,1.186,0.96,us,us20002bf2,2015-07-03T00:23:39.040Z,"2km SW of Nagarkot, Nepal",earthquake,7.9,1.8,0.087,41,reviewed,us,us
+2015-04-25T06:25:55.260Z,27.687,85.5854,10,5,mb,,58,1.119,0.63,us,us20002bfk,2015-07-03T00:23:39.040Z,"7km ESE of Nagarkot, Nepal",earthquake,8.3,1.8,0.075,57,reviewed,us,us
+2015-04-25T06:22:02.750Z,27.8006,85.1141,10,5.1,mb,,99,1.511,0.86,us,us20002bhs,2015-07-03T00:23:39.040Z,"20km NW of Kirtipur, Nepal",earthquake,7.8,1.5,0.131,19,reviewed,us,us
+2015-04-25T06:20:40.340Z,28.2046,84.492,10,5.4,mb,,151,2.064,0.88,us,us20002bi6,2015-07-03T00:23:39.040Z,"12km E of Lamjung, Nepal",earthquake,4.3,1.9,0.13,20,reviewed,us,us
+2015-04-25T06:18:10.870Z,27.6857,86.0213,10,5.6,mb,,42,0.751,0.76,us,us20002bi0,2020-07-10T16:08:58.894Z,"30km SSE of Kodari, Nepal",earthquake,7.4,1.9,0.109,30,reviewed,us,us
+2015-04-25T06:15:22.910Z,27.6285,85.5398,10,6.1,mb,,43,1.173,1.02,us,us20002bi4,2020-07-10T16:09:09.237Z,"1km E of Banepa, Nepal",earthquake,8,1.8,0.089,48,reviewed,us,us
+2015-04-25T06:11:25.950Z,28.2305,84.7314,8.22,7.8,mww,,12,1.857,0.96,us,us20002926,2020-08-15T00:14:46.389Z,"36km E of Khudi, Nepal",earthquake,7.3,2.9,,,reviewed,us,us
+2015-04-21T14:02:15.550Z,28.8947,82.3938,10,5,mb,,35,7.668,0.7,us,us2000281p,2015-06-26T23:16:00.040Z,"46km SSE of Jumla, Nepal",earthquake,7.9,1.8,0.045,162,reviewed,us,us
+2015-04-02T00:56:38.960Z,28.7007,86.3309,57.33,4.6,mb,,75,4.31,0.54,us,us10001szi,2015-06-16T01:00:22.040Z,"70km NNE of Chongdui, China",earthquake,8.6,6.6,0.062,77,reviewed,us,us
+2015-01-31T13:59:45.250Z,28.2987,83.9732,32.41,4.8,mb,,96,6.419,0.82,us,usc000tkl8,2015-05-02T14:06:12.040Z,"3km N of Pokhara, Nepal",earthquake,9.7,5.3,0.08,54,reviewed,us,us
+2014-12-26T07:08:09.590Z,28.5278,87.3541,57.27,4.9,mb,,62,3.502,0.84,us,usc000ta1g,2015-03-17T02:37:13.040Z,"28km ESE of Xegar, China",earthquake,8.6,5.3,0.061,87,reviewed,us,us
+2014-12-18T15:32:12.950Z,27.7395,86.3702,33.6,5,mb,,40,4.612,0.84,us,usc000t7wj,2015-04-25T11:47:01.578Z,"29km SSE of Zuobude, China",earthquake,7.2,4.3,0.054,110,reviewed,us,us
+2014-08-03T05:57:30.560Z,29.2757,85.4967,10,5.2,mb,,38,4.926,0.61,us,usb000rzm0,2014-10-29T19:52:58.000Z,"26km ESE of Saga, China",earthquake,,1.7,0.041,199,reviewed,us,us
+2014-06-07T06:40:52.840Z,30.2645,81.6031,27.1,4.5,mb,,88,7.844,1.09,us,usc000rity,2014-08-30T17:03:01.000Z,western Xizang,earthquake,,4.4,0.18,9,reviewed,us,us
+2013-08-30T17:48:42.980Z,28.1613,85.8966,54.65,4.9,mb,,37,0.681,1.09,us,usb000jdvj,2015-01-28T13:59:45.139Z,"6km W of Chongdui, China",earthquake,,5,0.049,,reviewed,us,us
+2013-07-15T19:39:44.060Z,28.383,87.599,52.5,4.7,mb,74,75,,1.01,us,usp000k21s,2014-11-07T01:51:16.621Z,western Xizang,earthquake,,5.4,,56,reviewed,us,us
+2013-06-28T11:40:49.440Z,28.655,82.279,24.8,5,mb,137,35,,0.54,us,usb000i2gf,2015-01-31T02:44:49.396Z,"42km NNE of Salyan, Nepal",earthquake,,4.4,,115,reviewed,us,us
+2013-04-06T18:36:44.250Z,30.039,88.051,35,4.6,mb,74,48,,1.06,us,usb000g1eh,2014-11-07T01:50:31.425Z,"76km NNW of Jiding, China",earthquake,,6.2,,56,reviewed,us,us
+2013-03-06T16:49:46.540Z,28.758,82.294,10,5,mb,135,70.8,,0.89,us,us2013mka1,2014-11-07T01:50:18.400Z,"43km NNE of Salyan, Nepal",earthquake,,,,63,reviewed,us,us
+2013-01-17T20:59:51.070Z,29.412,81.429,39.1,4.5,mb,14,172.8,,1.48,us,usp000jyhf,2014-11-07T01:49:51.134Z,Nepal,earthquake,,17.2,,1,reviewed,us,us
+2013-01-09T07:44:17.110Z,29.694,81.711,15.3,5,mb,195,33.9,,0.98,us,usp000jy41,2014-11-07T01:49:48.129Z,Nepal,earthquake,,9.4,,91,reviewed,us,us
+2013-01-02T17:42:16.670Z,29.368,81.199,10,4.7,mb,87,56.6,,1.01,us,usc000eif1,2014-11-07T01:49:44.723Z,"31km ENE of Dipayal, Nepal",earthquake,,,,26,reviewed,us,us
+2012-11-30T19:39:30.580Z,27.22,88.2,25,4.7,mb,84,116.4,,0.92,us,usp000jw9j,2015-03-24T02:15:46.918Z,"Sikkim, India",earthquake,,11.3,,30,reviewed,us,us
+2012-11-11T18:39:23.680Z,29.46,81.479,37.1,4.8,mb,87,46.1,,1.11,us,usp000jvda,2015-03-24T02:29:52.458Z,Nepal,earthquake,,6.2,,14,reviewed,us,us
+2012-11-05T13:08:00.030Z,28.447,86.187,77.8,4.5,mb,71,38.9,,1.04,us,usp000jv2d,2015-03-24T01:47:47.524Z,western Xizang,earthquake,,,,26,reviewed,us,us
+2012-08-28T08:31:24.490Z,28.848,82.022,10,4.6,mb,31,93,,1.14,us,usp000jqz7,2014-11-07T01:48:38.608Z,Nepal,earthquake,,,,12,reviewed,us,us
+2012-08-23T16:30:21.790Z,28.47,82.69,28.4,5,mb,249,26.1,,0.91,us,usp000jqn6,2015-03-24T01:32:15.491Z,Nepal,earthquake,,12.1,,141,reviewed,us,us
+2012-08-09T13:12:04.910Z,28.456,86.74,70.2,4.7,mb,108,82.7,,0.93,us,usp000jq3d,2014-11-07T01:48:32.441Z,western Xizang,earthquake,,7,,21,reviewed,us,us
+2012-08-01T19:50:01.040Z,29.972,85.344,10,4.5,mb,11,145.1,,1.15,us,usp000jpr8,2014-11-07T01:48:28.082Z,western Xizang,earthquake,,,,2,reviewed,us,us
+2012-07-31T11:50:52.310Z,28.742,82.455,10,4.5,mb,68,97.8,,0.88,us,usp000jppc,2014-11-07T01:48:25.488Z,Nepal,earthquake,,,,15,reviewed,us,us
+2012-07-28T05:48:07.330Z,29.921,80.647,16.5,4.6,mb,99,80.2,,0.82,us,usp000jphu,2014-11-07T01:48:24.582Z,Nepal-India border region,earthquake,,11.9,,42,reviewed,us,us
+2012-07-22T16:44:20.410Z,29.951,88.041,29.4,4.9,mb,92,116.5,,0.83,us,usp000jpau,2014-11-07T01:48:22.819Z,western Xizang,earthquake,,10.4,,47,reviewed,us,us
+2012-07-03T19:11:40.860Z,29.914,88.011,10,4.9,mb,136,74.9,,0.84,us,usp000jnjh,2014-11-07T01:48:15.719Z,western Xizang,earthquake,,,,68,reviewed,us,us
+2012-06-11T04:35:59.960Z,27.306,88.13,51.5,4.5,mb,74,97.6,,0.75,us,usp000jmm9,2014-11-07T01:48:03.155Z,"Sikkim, India",earthquake,,9.1,,17,reviewed,us,us
+2012-06-09T07:54:11.100Z,28.4,84.126,20.1,4.8,mb,148,45.8,,0.92,us,usp000jmhz,2015-03-24T02:15:40.582Z,Nepal,earthquake,,10.7,,80,reviewed,us,us
+2011-09-18T12:40:51.830Z,27.73,88.155,50,6.9,mww,383,13,,0.96,us,usp000j88b,2020-09-21T17:45:24.699Z,"Sikkim, India",earthquake,,,,,reviewed,us,us
+2011-06-03T00:53:27.280Z,27.529,88.019,45.7,5,mb,118,33.7,,0.99,us,usp000j2m5,2015-03-24T02:12:34.320Z,"Sikkim, India",earthquake,,,,48,reviewed,us,us
+2011-05-24T12:52:00.090Z,30.042,85.391,41.4,4.5,mb,35,145.1,,0.81,us,usp000j24y,2014-11-07T01:44:54.744Z,western Xizang,earthquake,,8.6,,14,reviewed,us,us
+2011-05-04T20:57:19.260Z,30.323,80.433,25.4,4.6,mb,61,95.8,,0.93,us,usp000j10a,2014-11-07T01:44:44.949Z,western Xizang-India border region,earthquake,,18.1,,19,reviewed,us,us
+2011-04-04T11:31:43.050Z,29.698,80.754,26.1,5.3,mwb,278,31.1,,0.92,us,usp000hz8k,2020-09-21T17:27:22.770Z,Nepal-India border region,earthquake,,7.7,,,reviewed,us,us
+2011-02-13T17:51:21.560Z,27.388,86.941,28.6,4.5,mb,55,116.7,,1.13,us,usp000hufh,2014-11-07T01:43:39.998Z,Nepal,earthquake,,15.9,,21,reviewed,us,us
+2010-10-17T20:11:18.460Z,28.487,85.677,41.1,4.9,mb,100,47.9,,0.93,us,usp000hn7q,2015-03-24T01:12:50.502Z,Xizang-Nepal border region,earthquake,,8.4,,36,reviewed,us,us
+2010-07-10T10:15:45.190Z,29.318,86.981,42.3,4.6,mb,57,51.4,,0.99,us,usp000hf3r,2014-11-07T01:41:51.920Z,western Xizang,earthquake,,9.4,,21,reviewed,us,us
+2010-07-06T19:08:25.870Z,29.841,80.397,32.8,5,mwc,133,47.5,,0.8,us,usp000hez9,2020-07-08T02:26:50.082Z,Nepal-India border region,earthquake,,11.8,,,reviewed,us,gcmt
+2010-07-04T02:35:59.130Z,29.854,80.375,11.6,4.7,mb,78,80.5,,0.93,us,usp000hevm,2014-11-07T01:41:50.313Z,Nepal-India border region,earthquake,,17.5,,36,reviewed,us,us
+2010-06-22T23:14:10.840Z,29.872,80.428,16.3,5.2,mb,174,48.2,,0.95,us,usp000hed7,2020-09-21T16:52:22.657Z,Nepal-India border region,earthquake,,10.2,,87,reviewed,us,us
+2010-06-13T14:37:56.580Z,29.547,81.486,10,4.6,mb,30,146.1,,1.12,us,usp000hdy2,2014-11-07T01:41:40.848Z,Nepal,earthquake,,,,4,reviewed,us,us
+2010-06-13T14:31:51.860Z,29.587,81.446,19,4.7,mb,86,37,,0.76,us,usp000hdy1,2014-11-07T01:41:40.842Z,Nepal,earthquake,,14.7,,21,reviewed,us,us
+2010-02-26T04:42:39.350Z,28.474,86.745,89.1,5.1,mwc,209,29.6,,0.79,us,usp000h7q0,2016-11-10T02:24:42.475Z,western Xizang,earthquake,,,,,reviewed,us,gcmt
+2010-01-11T05:15:16.160Z,29.744,80.557,35,4.7,mb,27,84.6,,1.09,us,usp000h5y8,2014-11-07T01:40:26.418Z,Nepal-India border region,earthquake,,0,,4,reviewed,us,us
+2009-11-07T20:08:46.290Z,29.49,86.008,5.7,5.5,mwc,244,17.8,,0.8,us,usp000h3uf,2020-09-21T16:21:41.576Z,western Xizang,earthquake,,10.1,,,reviewed,us,gcmt
+2008-12-08T08:59:11.320Z,29.948,82.051,35.6,5.3,mwc,208,24.2,,0.82,us,usp000gq68,2016-11-10T02:05:07.490Z,Nepal,earthquake,,3.6,,,reviewed,us,gcmt
+2008-12-02T05:11:42.030Z,27.373,88.051,24.7,5.2,mb,103,93.6,,0.82,us,usp000gpsw,2014-11-07T01:37:52.109Z,"Sikkim, India",earthquake,,5.4,,35,reviewed,us,us
+2008-11-18T05:29:22.970Z,30.254,83.766,34.8,4.5,mb,44,105.6,,1.03,us,usp000gnz0,2014-11-07T01:37:45.686Z,western Xizang,earthquake,,18.2,,17,reviewed,us,us
+2008-11-17T23:52:18.360Z,29.19,88.226,11.6,4.6,mb,49,75.1,,0.86,us,usp000gnya,2014-11-07T01:37:45.504Z,western Xizang,earthquake,,18,,11,reviewed,us,us
+2008-09-04T12:53:11.290Z,30.279,80.349,10,5,mwc,176,48.2,,0.9,us,usp000ggda,2016-11-10T02:01:14.246Z,western Xizang-India border region,earthquake,,,,,reviewed,us,gcmt
+2008-06-15T03:27:15.450Z,29.459,81.083,29,4.6,mb,130,59.6,,0.73,us,usp000g9pk,2014-11-07T01:36:21.547Z,Nepal,earthquake,,8.2,,60,reviewed,us,us
+2008-03-17T18:55:51.300Z,29.76,81.531,10,4.7,ml,26,132.7,,,us,usp000g1ps,2014-11-07T01:35:16.324Z,Nepal,earthquake,,,,,reviewed,dmn,dmn
+2007-10-29T09:49:21.150Z,27.945,85.38,16.1,4.7,mb,58,59.1,,0.96,us,usp000frhm,2015-03-24T02:07:44.773Z,Nepal,earthquake,,3.9,,18,reviewed,us,us
+2007-08-11T14:35:54.820Z,27.344,87.737,35,5,mb,162,77.5,,0.73,us,usp000fjdy,2015-03-24T02:32:22.787Z,Nepal,earthquake,,,,73,reviewed,us,us
+2007-08-01T15:17:52.780Z,29.213,82.196,10,4.5,mb,43,64.2,,1.22,us,usp000fhm3,2014-11-07T01:33:08.950Z,Nepal,earthquake,,,,5,reviewed,us,us
+2007-05-20T14:18:21.330Z,27.334,88.236,42.8,4.9,mwc,167,76.7,,0.94,us,usp000fccm,2016-11-10T01:40:18.865Z,"Sikkim, India",earthquake,,11.4,,,reviewed,us,gcmt
+2007-05-18T12:40:01.190Z,27.276,88.147,15.4,4.7,mb,83,70.7,,1.04,us,usp000fc7u,2014-11-07T01:32:29.290Z,"Sikkim, India",earthquake,,18.2,,40,reviewed,us,us
+2007-03-10T13:25:47.160Z,29.44,81.144,5.8,4.6,mb,55,61.5,,0.95,us,usp000f6ek,2014-11-07T01:31:50.978Z,Nepal,earthquake,,17.1,,16,reviewed,us,us
+2007-02-15T19:09:39.030Z,29.567,81.451,18.7,4.5,mb,68,146.1,,0.99,us,usp000f4xq,2014-11-07T01:31:38.221Z,Nepal,earthquake,,21.4,,16,reviewed,us,us
+2006-09-26T04:04:20.120Z,29.76,80.521,6.6,4.7,mb,47,84.7,,0.8,us,usp000etue,2014-11-07T01:30:16.842Z,Nepal-India border region,earthquake,,20.2,,12,reviewed,us,us
+2006-09-19T06:56:44.570Z,29.49,81.569,27.7,4.7,mb,103,97.6,,0.74,us,usp000etd4,2014-11-07T01:30:15.079Z,Nepal,earthquake,,18.9,,41,reviewed,us,us
+2006-08-30T18:25:00.600Z,29.052,83.602,10,4.5,ml,23,74.9,,,us,usp000es41,2014-11-07T01:30:03.357Z,Xizang-Nepal border region,earthquake,,,,,reviewed,dmn,dmn
+2006-08-05T07:33:02.490Z,29.887,80.098,10,4.5,mb,61,57.1,,0.87,us,usp000eq9d,2014-11-07T01:29:54.485Z,Nepal-India border region,earthquake,,,,19,reviewed,us,us
+2006-05-05T08:00:28.780Z,29.504,80.998,17.6,5,mb,111,100.5,,0.74,us,usp000egaz,2014-11-07T01:29:03.307Z,Nepal-India border region,earthquake,,,,68,reviewed,us,us
+2006-02-14T19:17:33.260Z,30.265,80.528,62.5,4.5,mb,48,95.5,,1.06,us,usp000ea2m,2014-11-07T01:28:18.517Z,western Xizang-India border region,earthquake,,10.1,,17,reviewed,us,us
+2006-02-03T01:57:47.220Z,27.245,86.383,14.3,4.7,mwc,190,61.2,,0.65,us,usp000e9c4,2016-11-10T01:17:15.148Z,Nepal,earthquake,,3.1,,,reviewed,us,hrv
+2006-02-01T22:24:15.920Z,30.288,80.483,50.6,4.7,mwc,150,61.4,,0.96,us,usp000e99p,2016-11-10T01:17:12.538Z,western Xizang-India border region,earthquake,,7.6,,,reviewed,us,hrv
+2005-12-12T17:34:14.660Z,29.278,82.021,35,4.7,mb,36,78.5,,0.99,us,usp000e61h,2014-11-07T01:27:53.117Z,Nepal,earthquake,,,,7,reviewed,us,us
+2005-12-10T05:39:33.640Z,29.172,82.344,10,4.6,ml,18,116.6,,1.3,us,usp000e5wn,2014-11-07T01:27:52.395Z,Nepal,earthquake,,0,,,reviewed,us,dmn
+2005-11-06T01:36:56.670Z,29.731,81.868,49.5,5,mb,98,47.8,,0.61,us,usp000e3kt,2014-11-07T01:27:36.510Z,Nepal,earthquake,,,,46,reviewed,us,us
+2005-10-31T21:47:56.070Z,28.39,84.863,10,4.7,mwc,128,36,,0.79,us,usp000e38d,2016-11-10T01:13:58.553Z,Nepal,earthquake,,0,,,reviewed,us,hrv
+2005-10-31T05:51:16.370Z,29.731,81.857,47.1,4.7,mwc,95,59.1,,0.74,us,usp000e36n,2016-11-10T01:13:56.384Z,Nepal,earthquake,,5.5,,,reviewed,us,hrv
+2005-10-29T23:32:10.440Z,29.525,81.577,48.5,4.6,mb,37,94.2,,0.85,us,usp000e346,2014-11-07T01:27:30.377Z,Nepal,earthquake,,9.5,,8,reviewed,us,us
+2005-10-25T01:51:26.540Z,30.146,81.208,49.9,4.9,mb,80,90,,0.7,us,usp000e2sv,2014-11-07T01:27:28.601Z,western Xizang,earthquake,,6.4,,33,reviewed,us,us
+2005-08-28T13:14:08.270Z,27.636,87.419,38.8,4.8,mb,101,52.5,,0.86,us,usp000dy7b,2014-11-07T01:26:53.925Z,Nepal,earthquake,,5.1,,37,reviewed,us,us
+2005-06-14T14:23:18.470Z,27.205,87.92,44.4,4.6,mb,48,70.4,,0.89,us,usp000dsz4,2014-11-07T01:26:12.404Z,Nepal,earthquake,,5.6,,10,reviewed,us,us
+2005-04-10T05:59:43.520Z,30.356,83.699,55.8,4.6,mb,39,62.8,,0.76,us,usp000dmt5,2014-11-07T01:25:31.909Z,western Xizang,earthquake,,7.4,,11,reviewed,us,us
+2005-04-07T21:42:09.020Z,30.323,83.756,10,5.1,mb,49,63.5,,1.21,us,usp000dmhz,2014-11-07T01:25:30.902Z,western Xizang,earthquake,,,,34,reviewed,us,us
+2005-03-26T20:32:13.420Z,28.259,87.926,70.7,4.7,mwc,159,94.9,,0.73,us,usp000dk47,2016-11-10T01:03:24.491Z,western Xizang,earthquake,,9.4,,,reviewed,us,hrv
+2005-02-08T03:35:04.840Z,27.738,86.092,10,4.9,mb,99,81.2,,0.86,us,usp000dfpt,2014-11-07T01:24:57.239Z,Nepal,earthquake,,,,63,reviewed,us,us
+2005-01-16T08:43:46.800Z,29.646,80.696,10,4.8,mb,105,58,,0.82,us,usp000ddf1,2014-11-07T01:24:39.790Z,Nepal-India border region,earthquake,,,,46,reviewed,us,us
+2005-01-15T22:32:48.190Z,29.439,80.965,10,4.6,mb,36,42.8,,0.83,us,usp000dddn,2014-11-07T01:24:39.661Z,Nepal-India border region,earthquake,,,,19,reviewed,us,us
+2004-09-12T08:48:04.910Z,29.502,81.575,11.9,4.5,mb,45,71.2,,1.03,us,usp000d44j,2014-11-07T01:23:28.235Z,Nepal,earthquake,,24.5,,17,reviewed,us,us
+2004-08-25T02:22:51.380Z,30.366,83.359,33.2,4.5,mb,10,127.3,,0.85,us,usp000d2tx,2014-11-07T01:23:15.721Z,western Xizang,earthquake,,31.7,,3,reviewed,us,us
+2004-07-23T01:25:32.600Z,30.175,88.118,11.2,4.8,mb,86,43.9,,1.01,us,usp000d0qg,2014-11-07T01:22:57.120Z,western Xizang,earthquake,,,,31,reviewed,us,us
+2004-04-03T02:51:10.610Z,29.846,81.118,76.5,4.6,mb,22,178.1,,0.96,us,usp000crhv,2014-11-07T01:21:53.112Z,Nepal,earthquake,,29.5,,5,reviewed,us,us
+2004-03-01T17:41:18.600Z,30.368,80.496,58.6,4.8,mb,52,71.5,,0.8,us,usp000cnuh,2014-11-07T01:21:35.724Z,western Xizang-India border region,earthquake,,14.8,,27,reviewed,us,us
+2004-02-27T12:53:14.600Z,28.127,87.66,68.1,4.8,mb,76,85.7,,0.73,us,usp000cnh0,2014-11-07T01:21:31.351Z,western Xizang,earthquake,,8.7,,25,reviewed,us,us
+2004-02-18T01:23:43.820Z,27.361,87.758,20.7,4.7,mb,40,88.3,,0.55,us,usp000cmew,2014-11-07T01:21:22.123Z,Nepal,earthquake,,14.4,,12,reviewed,us,us
+2004-01-03T13:14:28.680Z,27.739,85.931,17.1,4.9,mb,83,80.7,,0.68,us,usp000cgyy,2014-11-07T01:20:57.875Z,Nepal,earthquake,,14.8,,33,reviewed,us,us
+2003-09-29T13:40:30.450Z,27.358,87.738,33,4.6,mb,35,97.1,,0.68,us,usp000c927,2014-11-07T01:19:59.493Z,Nepal,earthquake,,,,15,reviewed,us,us
+2003-08-20T03:34:54.190Z,30.169,82.219,33,4.6,mb,33,110,,0.54,us,usp000c5dy,2014-11-07T01:19:33.285Z,western Xizang,earthquake,,,,16,reviewed,us,us
+2003-02-26T19:58:13.150Z,28.347,86.449,33,4.6,mb,15,,,0.46,us,usp000brj5,2014-11-07T01:17:52.666Z,western Xizang,earthquake,,,,5,reviewed,us,us
+2003-01-16T11:36:49.140Z,29.8,88.006,12.2,5.1,mb,115,,,0.83,us,usp000bnnc,2014-11-07T01:17:35.850Z,western Xizang,earthquake,,,,63,reviewed,us,us
+2002-08-31T12:40:35.370Z,29.871,87.878,33,5,mb,123,,,1.16,us,usp000bb00,2014-11-07T01:16:21.768Z,western Xizang,earthquake,,,,82,reviewed,us,us
+2002-08-22T04:50:14.270Z,29.818,88.087,38.5,4.5,mb,36,,,1.13,us,usp000bacy,2014-11-07T01:16:18.431Z,western Xizang,earthquake,,13.6,,18,reviewed,us,us
+2002-08-06T23:30:01.020Z,29.912,87.87,33,4.6,mb,51,,,1.13,us,usp000b9ef,2014-11-07T01:16:13.932Z,western Xizang,earthquake,,,,34,reviewed,us,us
+2002-07-09T03:08:05.280Z,29.889,87.995,33,4.7,mb,58,,,1.07,us,usp000b7sh,2014-11-07T01:16:02.004Z,western Xizang,earthquake,,,,27,reviewed,us,us
+2002-05-09T01:09:20.620Z,29.826,87.837,33.6,4.6,mb,37,,,1.12,us,usp000b3zs,2014-11-07T01:15:35.907Z,western Xizang,earthquake,,14,,19,reviewed,us,us
+2002-04-02T19:57:21.290Z,29.287,87.009,33,4.6,mb,16,,,1.14,us,usp000b1m8,2014-11-07T01:15:20.220Z,western Xizang,earthquake,,,,2,reviewed,us,us
+2002-03-23T04:56:25.890Z,29.863,87.928,33,4.7,mb,61,,,1.03,us,usp000b0w4,2014-11-07T01:15:13.119Z,western Xizang,earthquake,,,,31,reviewed,us,us
+2002-03-07T15:50:18.920Z,29.625,84.419,70,4.6,mb,16,,,0.88,us,usp000azw0,2014-11-07T01:15:05.714Z,western Xizang,earthquake,,12,,4,reviewed,us,us
+2001-12-18T02:22:00.070Z,29.612,81.78,33,4.9,mb,64,,,0.86,us,usp000ausp,2014-11-07T01:14:29.636Z,Nepal,earthquake,,,,34,reviewed,us,us
+2001-12-02T22:41:13.790Z,27.15,88.171,33,5.1,mb,147,,,0.95,us,usp000atwn,2014-11-07T01:14:24.740Z,"Sikkim, India",earthquake,,,,63,reviewed,us,us
+2001-11-30T21:46:04.570Z,29.327,81.638,33,4.7,mb,37,,,0.81,us,usp000ats9,2014-11-07T01:14:20.335Z,Nepal,earthquake,,,,16,reviewed,us,us
+2001-11-27T17:56:55.110Z,29.51,81.739,33,5.1,mb,148,,,1.13,us,usp000atkf,2014-11-07T01:14:19.346Z,Nepal,earthquake,,,,93,reviewed,us,us
+2001-11-27T08:53:54.080Z,29.548,81.745,33,5.4,mwc,295,,,0.95,us,usp000atk2,2016-11-10T00:04:03.935Z,Nepal,earthquake,,,,,reviewed,us,hrv
+2001-11-27T08:46:19.160Z,29.39,81.631,33,4.8,mb,32,,,0.89,us,usp000atk0,2014-11-07T01:14:19.280Z,Nepal,earthquake,,,,9,reviewed,us,us
+2001-11-27T07:31:52.330Z,29.606,81.752,33,5.5,mwc,348,,,0.88,us,usp000atjx,2020-09-18T18:35:01.912Z,Nepal,earthquake,,,,,reviewed,us,hrv
+2001-07-16T16:12:46.750Z,27.957,85.178,33,5,mb,124,,,1,us,usp000ajnb,2020-09-18T18:27:41.004Z,Nepal,earthquake,,,,65,reviewed,us,us
+2001-04-29T10:39:05.170Z,28.912,87.222,33,4.7,mb,73,,,1,us,usp000ae5k,2014-11-07T01:12:39.277Z,western Xizang,earthquake,,,,33,reviewed,us,us
+2001-04-28T10:37:56.570Z,28.872,87.162,33,5.2,mb,260,,,0.86,us,usp000ae39,2014-11-07T01:12:38.818Z,western Xizang,earthquake,,,,135,reviewed,us,us
+2001-04-12T22:08:51.540Z,29.94,88.114,33,4.6,mb,47,,,1.1,us,usp000ad48,2014-11-07T01:12:34.352Z,western Xizang,earthquake,,,,24,reviewed,us,us
+2001-04-03T23:08:35.920Z,27.801,86.127,33,4.6,mb,68,,,0.99,us,usp000ach7,2014-11-07T01:12:31.411Z,Nepal,earthquake,,,,21,reviewed,us,us
+2000-10-26T15:22:34.920Z,29.211,81.875,33,4.8,mb,58,,,0.99,us,usp000a2f5,2014-11-07T01:11:19.063Z,Nepal,earthquake,,,,28,reviewed,us,us
+2000-10-08T06:14:57.420Z,30.193,88.115,33,4.7,mb,53,,,1.31,us,usp000a1ep,2014-11-07T01:11:15.177Z,western Xizang,earthquake,,,,33,reviewed,us,us
+2000-02-26T04:04:34.870Z,28.494,82.145,33,4.6,mb,,,,1.13,us,usp0009nzd,2014-11-07T01:09:33.842Z,Nepal,earthquake,,,,42,reviewed,us,us
+1999-12-01T13:56:43.750Z,30.024,81.444,33,4.5,mb,,,,1.43,us,usp0009jc5,2014-11-07T01:09:03.958Z,western Xizang,earthquake,,,,11,reviewed,us,us
+1999-11-16T11:41:33.660Z,30.385,82.773,33,4.6,mb,,,,1.15,us,usp0009hq2,2014-11-07T01:08:58.419Z,western Xizang,earthquake,,,,13,reviewed,us,us
+1999-09-05T02:28:16.980Z,28.159,87.413,33,4.5,mb,,,,0.97,us,usp0009e17,2014-11-07T01:08:26.237Z,western Xizang,earthquake,,,,20,reviewed,us,us
+1999-08-01T08:24:46.170Z,28.442,86.733,40.2,5.2,mb,,,,0.68,us,usp0009cdv,2014-11-07T01:08:11.461Z,western Xizang,earthquake,,6.8,,103,reviewed,us,us
+1999-03-19T05:53:40.650Z,27.748,85.609,33,4.5,mb,,,,1.09,us,usp00094sf,2014-11-07T01:07:14.949Z,Nepal,earthquake,,,,11,reviewed,us,us
+1998-12-01T05:35:09.200Z,27.935,87.649,33,4.8,mb,,,,0.88,us,usp0008z0r,2014-11-07T01:06:34.045Z,Nepal,earthquake,,,,12,reviewed,us,us
+1998-11-26T10:14:27.630Z,27.753,87.894,73.1,5.1,mb,,,,0.76,us,usp0008ys2,2014-11-07T01:06:29.427Z,Nepal,earthquake,,,,102,reviewed,us,us
+1998-09-30T02:29:55.140Z,29.948,88.117,33,5.2,mwc,,,,1.18,us,usp0008vr9,2016-11-09T23:36:40.655Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1998-09-07T10:44:39.060Z,30.27,88.129,33,4.7,mb,,,,1.13,us,usp0008ujr,2014-11-07T01:06:01.137Z,western Xizang,earthquake,,,,23,reviewed,us,us
+1998-09-06T21:35:49.470Z,27.859,86.895,33,4.6,mb,,,,1.04,us,usp0008uj0,2014-11-07T01:06:01.020Z,Nepal,earthquake,,,,18,reviewed,us,us
+1998-09-03T23:02:28.330Z,27.6,86.733,33,4.6,mb,,,,0.73,us,usp0008ucq,2014-11-07T01:06:00.153Z,Nepal,earthquake,,,,28,reviewed,us,us
+1998-09-03T18:15:56.560Z,27.85,86.941,33,5.6,mb,,,,0.98,us,usp0008uc8,2020-09-15T20:19:34.424Z,Nepal,earthquake,,,,137,reviewed,us,us
+1998-08-30T04:11:35.070Z,30.034,88.081,33,4.6,mb,,,,1.09,us,usp0008u31,2014-11-07T01:05:54.527Z,western Xizang,earthquake,,,,30,reviewed,us,us
+1998-08-30T03:37:48.980Z,30.044,88.077,33,5,ms,,,,1.1,us,usp0008u2y,2014-11-07T01:05:54.514Z,western Xizang,earthquake,,,,1,reviewed,us,us
+1998-08-28T22:01:55.790Z,30.191,88.15,33,5,mwc,,,,0.91,us,usp0008u0u,2016-11-09T23:21:22.458Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1998-08-25T23:23:34.880Z,30.299,88.112,33,4.6,mb,,,,1.19,us,usp0008tw4,2014-11-07T01:05:53.289Z,western Xizang,earthquake,,,,2,reviewed,us,us
+1998-08-25T12:29:45.130Z,30.022,88.06,33,4.6,mb,,,,0.98,us,usp0008tux,2014-11-07T01:05:53.146Z,western Xizang,earthquake,,,,7,reviewed,us,us
+1998-08-25T07:59:00.740Z,30.024,88.188,33,4.6,mb,,,,0.88,us,usp0008tub,2014-11-07T01:05:53.096Z,western Xizang,earthquake,,,,6,reviewed,us,us
+1998-08-25T07:41:40.190Z,30.079,88.109,33,5.9,mwc,,,,0.99,us,usp0008tua,2020-09-15T20:18:21.206Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1998-07-21T14:40:44.670Z,30.375,88.192,15.7,5.1,mwc,,,,1.11,us,usp0008rz0,2016-11-09T23:02:22.933Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1998-07-20T01:31:19.130Z,30.141,88.03,33,4.6,mb,,,,1.25,us,usp0008rwm,2014-11-07T01:05:37.368Z,western Xizang,earthquake,,,,18,reviewed,us,us
+1998-07-20T01:18:14.510Z,30.202,88.055,33,4.7,mb,,,,1.01,us,usp0008rwj,2014-11-07T01:05:37.360Z,western Xizang,earthquake,,,,32,reviewed,us,us
+1998-07-20T01:07:56.150Z,30.435,88.191,33,4.8,mb,,,,0.83,us,usp0008rwh,2014-11-07T01:05:37.358Z,western Xizang,earthquake,,,,3,reviewed,us,us
+1998-07-20T01:05:58.350Z,30.134,88.173,33.2,5.8,mwb,,,,1.02,us,usp0008rwg,2020-09-15T20:15:10.673Z,western Xizang,earthquake,,5.4,,,reviewed,us,us
+1998-07-15T04:36:01.080Z,29.576,81.466,33,4.7,mb,,,,1.22,us,usp0008rhm,2014-11-07T01:05:35.923Z,Nepal,earthquake,,,,11,reviewed,us,us
+1998-06-27T09:05:59.270Z,27.675,85.568,33,4.9,mb,,,,0.68,us,usp0008qjx,2014-11-07T01:05:27.370Z,Nepal,earthquake,,,,44,reviewed,us,us
+1998-02-22T22:47:44.140Z,30.215,88.047,33,4.6,mb,,,,0.96,us,usp0008geq,2014-11-07T01:04:34.914Z,western Xizang,earthquake,,,,12,reviewed,us,us
+1998-02-22T02:40:38.050Z,28.453,85.435,33,4.8,mb,,,,0.88,us,usp0008gdp,2014-11-07T01:04:34.760Z,Xizang-Nepal border region,earthquake,,,,34,reviewed,us,us
+1998-02-12T02:40:29.130Z,26.517,88.199,33,4.6,mb,,,,1.15,us,usp0008fuu,2014-11-07T01:04:32.204Z,India-Bangladesh border region,earthquake,,,,2,reviewed,us,us
+1998-02-01T17:32:48.220Z,28.19,87.122,33,4.5,mb,,,,0.98,us,usp0008fa6,2014-11-07T01:04:27.309Z,western Xizang,earthquake,,,,1,reviewed,us,us
+1997-12-08T02:03:55.840Z,27.475,87.175,33,5,mb,,,,0.91,us,usp0008c80,2014-11-07T01:04:05.974Z,Nepal,earthquake,,,,45,reviewed,us,us
+1997-11-27T16:11:57.070Z,27.618,87.347,33,5.1,mb,,,,1.09,us,usp0008be2,2014-11-07T01:03:57.748Z,Nepal,earthquake,,,,62,reviewed,us,us
+1997-11-03T02:29:51.820Z,29.078,85.383,33,5.5,mwc,,,,1.07,us,usp0008a01,2020-09-15T19:49:55.090Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1997-10-24T12:06:51.820Z,28.536,82.345,33,4.8,mb,,,,1.03,us,usp00089j1,2014-11-07T01:03:45.362Z,Nepal,earthquake,,,,23,reviewed,us,us
+1997-09-18T07:37:10.010Z,28.872,88.148,33,4.6,mb,,,,0.87,us,usp00087p5,2014-11-07T01:03:29.688Z,western Xizang,earthquake,,,,1,reviewed,us,us
+1997-07-05T06:22:53.530Z,28.803,86.862,33,4.8,mb,,,,1.52,us,usp00084d1,2014-11-07T01:03:05.496Z,western Xizang,earthquake,,,,1,reviewed,us,us
+1997-05-02T20:09:28.810Z,29.434,80.426,33,4.6,mb,,,,0.61,us,usp00081n5,2014-11-07T01:02:43.130Z,Nepal-India border region,earthquake,,,,3,reviewed,us,us
+1997-04-05T17:31:51.200Z,30.093,86.059,33,4.5,mb,,,,1.12,us,usp0008009,2014-11-07T01:02:30.491Z,western Xizang,earthquake,,,,8,reviewed,us,us
+1997-03-24T21:28:06.090Z,27.887,84.987,33,4.5,mb,,,,1.2,us,usp0007zcb,2014-11-07T01:02:22.445Z,Nepal-India border region,earthquake,,,,6,reviewed,us,us
+1997-03-03T09:29:39.970Z,27.244,86.082,44.8,4.7,mb,,,,1.06,us,usp0007y6j,2014-11-07T01:02:16.317Z,Nepal,earthquake,,,,11,reviewed,us,us
+1997-01-31T20:02:16.640Z,27.946,85.127,22.2,5.2,mb,,,,1.02,us,usp0007wkg,2014-11-07T01:02:01.299Z,Nepal,earthquake,,,,71,reviewed,us,us
+1997-01-05T08:47:25.400Z,29.845,80.532,33,5.6,mwc,,,,0.9,us,usp0007vgp,2020-09-15T19:18:56.261Z,Nepal-India border region,earthquake,,,,,reviewed,us,hrv
+1996-12-30T11:08:18.920Z,27.435,86.638,33,5,mb,,,,1.08,us,usp0007v6h,2014-11-07T01:01:50.882Z,Nepal,earthquake,,,,56,reviewed,us,us
+1996-11-08T00:54:13.290Z,29.345,81.637,33,5,mb,,,,1.4,us,usp0007snm,2014-11-07T01:01:33.631Z,Nepal,earthquake,,,,1,reviewed,us,us
+1996-11-04T20:43:55.170Z,29.244,81.775,76.7,4.6,mb,,,,1.19,us,usp0007ses,2014-11-07T01:01:32.508Z,Nepal,earthquake,,20.8,,7,reviewed,us,us
+1996-10-03T01:29:03.110Z,28.209,87.489,33,4.5,mb,,,,1.31,us,usp0007qvu,2014-11-07T01:01:19.046Z,western Xizang,earthquake,,,,2,reviewed,us,us
+1996-09-13T03:41:08.660Z,27.033,88.234,33,4.5,mb,,,,0.84,us,usp0007pwa,2014-11-07T01:01:10.167Z,"Sikkim, India",earthquake,,,,3,reviewed,us,us
+1996-08-29T08:38:25.150Z,30.089,88.18,33,4.7,mb,,,,0.88,us,usp0007p6m,2014-11-07T01:01:02.219Z,western Xizang,earthquake,,,,7,reviewed,us,us
+1996-08-25T21:46:08.620Z,30.139,87.736,33,4.5,mb,,,,1.2,us,usp0007p24,2014-11-07T01:01:01.602Z,western Xizang,earthquake,,,,3,reviewed,us,us
+1996-07-31T08:02:52.700Z,30.111,88.143,33,5.1,mb,,,,0.8,us,usp0007mwy,2014-11-07T01:00:51.356Z,western Xizang,earthquake,,,,70,reviewed,us,us
+1996-07-31T08:00:27.580Z,30.174,88.178,33,5.5,mwc,,,,1.1,us,usp0007mwx,2020-09-15T18:54:22.357Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1996-07-22T15:54:07.110Z,30.017,88.02,33,4.5,mb,,,,0.8,us,usp0007mea,2014-11-07T01:00:49.370Z,western Xizang,earthquake,,,,30,reviewed,us,us
+1996-07-18T10:25:02.420Z,30.093,88.173,33,4.6,mb,,,,0.7,us,usp0007m73,2014-11-07T01:00:48.390Z,western Xizang,earthquake,,,,30,reviewed,us,us
+1996-07-08T00:18:36.200Z,30.05,88.155,33,4.5,mb,,,,1,us,usp0007kua,2014-11-07T01:00:46.899Z,western Xizang,earthquake,,,,27,reviewed,us,us
+1996-07-04T18:11:04.670Z,30.009,88.077,33,4.9,mb,,,,1,us,usp0007kqg,2014-11-07T01:00:45.959Z,western Xizang,earthquake,,,,33,reviewed,us,us
+1996-07-03T10:10:33.860Z,29.923,88.187,33,5,mwc,,,,0.9,us,usp0007knp,2016-11-09T22:54:16.957Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1996-07-03T06:44:45.550Z,30.147,88.189,33,5.7,mwb,,,,1,us,usp0007kna,2020-09-15T18:51:57.018Z,western Xizang,earthquake,,,,,reviewed,us,us
+1996-05-17T17:04:39.810Z,30.058,88.143,33,4.6,mb,,,,0.8,us,usp0007hgw,2014-11-07T01:00:27.777Z,western Xizang,earthquake,,,,35,reviewed,us,us
+1996-05-11T03:58:50.290Z,29.984,88.077,33,4.8,mb,,,,1,us,usp0007h7t,2014-11-07T01:00:26.573Z,western Xizang,earthquake,,,,56,reviewed,us,us
+1996-05-10T09:07:01.870Z,30.001,88.069,33,4.8,mb,,,,0.8,us,usp0007h6s,2014-11-07T01:00:26.444Z,western Xizang,earthquake,,,,42,reviewed,us,us
+1996-05-10T04:26:49.620Z,30.01,88.072,33,4.5,mb,,,,0.9,us,usp0007h6d,2014-11-07T01:00:26.391Z,western Xizang,earthquake,,,,28,reviewed,us,us
+1996-04-26T16:30:58.490Z,27.825,87.821,33,5,mb,,,,0.9,us,usp0007gmx,2014-11-07T01:00:19.278Z,Nepal,earthquake,,,,35,reviewed,us,us
+1996-03-12T21:20:15.270Z,30.014,88.151,11.9,4.9,mb,,,,0.8,us,usp0007enp,2014-11-07T01:00:05.726Z,western Xizang,earthquake,,,,38,reviewed,us,us
+1995-10-05T17:40:16.770Z,30.163,88.233,57.8,4.8,mb,,,,1.3,us,usp00074js,2014-11-07T00:58:54.045Z,western Xizang,earthquake,,5.4,,53,reviewed,us,us
+1995-08-03T03:05:44.440Z,29.968,81.538,26.5,4.7,ms,,,,1.3,us,usp00071cq,2014-11-07T00:58:28.503Z,Nepal,earthquake,,,,1,reviewed,us,us
+1995-07-30T07:04:02.530Z,30.266,88.229,45,4.8,mb,,,,1.1,us,usp000715c,2014-11-07T00:58:24.167Z,western Xizang,earthquake,,6.5,,55,reviewed,us,us
+1995-04-24T04:29:01.470Z,29.889,88.253,33,4.6,mb,,,,1.1,us,usp0006w8w,2014-11-07T00:57:45.715Z,western Xizang,earthquake,,,,30,reviewed,us,us
+1995-04-17T17:34:34.290Z,29.694,81.448,22.6,4.7,mb,,,,1,us,usp0006vu0,2014-11-07T00:57:43.126Z,Nepal,earthquake,,,,9,reviewed,us,us
+1995-04-17T01:32:45.040Z,29.691,81.52,18.8,4.8,mb,,,,1.1,us,usp0006vss,2014-11-07T00:57:42.918Z,Nepal,earthquake,,,,29,reviewed,us,us
+1995-03-29T19:11:20.520Z,28.772,84.203,33,4.7,mb,,,,0.9,us,usp0006uwx,2014-11-07T00:57:34.318Z,Nepal,earthquake,,,,6,reviewed,us,us
+1995-03-24T08:12:39.960Z,28.859,87.767,33,4.5,mb,,,,1.3,us,usp0006und,2014-11-07T00:57:33.088Z,western Xizang,earthquake,,,,7,reviewed,us,us
+1995-01-01T19:56:13.620Z,27.773,87.587,61.1,4.9,mb,,,,0.6,us,usp0006qr3,2014-11-07T00:57:03.912Z,Nepal,earthquake,,17.3,,3,reviewed,us,us
+1994-12-12T10:41:36.700Z,29.508,80.712,33,4.5,mb,,,,1.1,us,usp0006pyt,2014-11-07T00:56:57.470Z,Nepal-India border region,earthquake,,,,3,reviewed,us,us
+1994-07-17T17:40:48.300Z,29.149,81.371,29.2,5,mb,,,,0.7,us,usp0006ftz,2014-11-07T00:55:52.617Z,Nepal,earthquake,,,,42,reviewed,us,us
+1994-05-25T07:38:53.710Z,27.65,87.792,47.9,4.6,mb,,,,0.7,us,usp0006d2t,2014-11-07T00:55:31.315Z,Nepal,earthquake,,17,,5,reviewed,us,us
+1994-01-31T08:38:46.940Z,29.552,81.79,35.2,4.7,mb,,,,1.2,us,usp00067sj,2014-11-07T00:54:51.775Z,Nepal,earthquake,,12.3,,22,reviewed,us,us
+1993-12-14T02:27:44.390Z,28.489,86.844,33,4.6,mb,,,,1.2,us,usp000653p,2014-11-07T00:54:35.745Z,western Xizang,earthquake,,,,9,reviewed,us,us
+1993-10-20T16:15:59.680Z,28.723,82.28,37.4,5.1,mb,,,,0.9,us,usp00062b9,2020-09-15T16:44:44.015Z,Nepal,earthquake,,,,55,reviewed,us,us
+1993-10-20T07:23:38.640Z,28.776,82.256,33,5,mb,,,,1.2,us,usp00062aa,2014-11-07T00:54:13.854Z,Nepal,earthquake,,,,37,reviewed,us,us
+1993-09-05T06:05:54.630Z,27.293,87.31,33,4.5,mb,,,,1.2,us,usp0005zs9,2014-11-07T00:53:55.359Z,Nepal,earthquake,,,,27,reviewed,us,us
+1993-07-09T16:23:17.350Z,26.81,86.059,33,4.6,mb,,,,1.2,us,usp0005vvm,2014-11-07T00:53:26.784Z,Nepal-India border region,earthquake,,,,2,reviewed,us,us
+1993-07-05T22:11:09.840Z,27.939,85.118,33,4.7,mb,,,,1.1,us,usp0005vnw,2014-11-07T00:53:25.404Z,Nepal,earthquake,,,,31,reviewed,us,us
+1993-07-03T02:00:22.230Z,28.357,86.63,33,4.7,mb,,,,1.1,us,usp0005vht,2014-11-07T00:53:23.993Z,western Xizang,earthquake,,,,24,reviewed,us,us
+1993-04-12T00:57:57.980Z,28.314,82.799,33,4.7,mb,,,,1.4,us,usp0005r1g,2014-11-07T00:52:48.660Z,Nepal,earthquake,,,,7,reviewed,us,us
+1993-03-31T13:44:10.110Z,29.091,87.349,20.1,5.1,mb,,,,0.9,us,usp0005qey,2014-11-07T00:52:40.715Z,western Xizang,earthquake,,,,76,reviewed,us,us
+1993-03-25T20:16:55.620Z,29.625,80.551,33,4.6,mb,,,,0.8,us,usp0005q48,2014-11-07T00:52:38.613Z,Nepal-India border region,earthquake,,,,12,reviewed,us,us
+1993-03-20T21:26:39.450Z,28.994,87.383,21.1,5.2,mw,,,,1.1,us,usp0005pvs,2016-11-09T22:07:21.252Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1993-03-20T14:51:59.770Z,29.084,87.333,12.2,6.2,mw,,,,1.1,us,usp0005pv9,2020-08-29T02:10:12.071Z,western Xizang,earthquake,,,,,reviewed,us,hrv
+1993-01-02T14:53:38.310Z,29.145,81.119,14.7,4.9,mb,,,,0.9,us,usp0005k7w,2014-11-07T00:52:09.812Z,Nepal,earthquake,,,,40,reviewed,us,us
+1992-06-13T15:40:05.410Z,28.945,82.927,32.9,4.9,ms,,,,1.1,us,usp000591s,2014-11-07T00:50:49.685Z,Nepal,earthquake,,,,2,reviewed,us,us
+1992-06-02T22:07:45.370Z,28.984,81.913,56.3,5.2,mb,,,,1,us,usp00058kj,2014-11-07T00:50:46.775Z,Nepal-India border region,earthquake,,,,88,reviewed,us,us
+1992-04-04T17:43:20.710Z,28.147,87.979,33,4.9,mb,,,,1.1,us,usp00055b6,2014-11-07T00:50:24.619Z,western Xizang,earthquake,,,,41,reviewed,us,us
+1992-01-30T05:55:47.870Z,29.291,81.128,33,4.6,mb,,,,1.3,us,usp00052e2,2014-11-07T00:49:57.682Z,Nepal,earthquake,,,,6,reviewed,us,us
+1991-12-21T19:52:45.500Z,27.904,88.139,57.1,4.9,mb,,,,1.2,us,usp00050rs,2014-11-07T00:49:46.277Z,"Sikkim, India",earthquake,,8.9,,27,reviewed,us,us
+1991-12-09T01:02:46.510Z,29.543,81.632,29.4,5.6,mb,,,,0.9,us,usp0005071,2020-08-29T01:09:17.319Z,Nepal,earthquake,,,,96,reviewed,us,us
+1991-06-10T21:30:11.950Z,29.266,80.281,58.1,4.6,mb,,,,1.2,us,usp0004sry,2014-11-07T00:48:44.091Z,Nepal-India border region,earthquake,,10.8,,11,reviewed,us,us
+1991-05-27T21:06:57.360Z,29.349,80.304,52.6,4.6,mb,,,,1,us,usp0004s5j,2014-11-07T00:48:37.709Z,Nepal-India border region,earthquake,,8.6,,19,reviewed,us,us
+1991-05-26T05:29:14.870Z,29.34,80.332,64.9,4.5,mb,,,,1,us,usp0004s37,2014-11-07T00:48:37.438Z,Nepal-India border region,earthquake,,10.8,,19,reviewed,us,us
+1991-03-15T04:28:16.300Z,28.317,87.683,42.6,4.6,mb,,,,1.2,us,usp0004p2m,2014-11-07T00:48:12.158Z,western Xizang,earthquake,,16.7,,7,reviewed,us,us
+1990-12-20T17:04:44.080Z,28.138,82.944,66.8,4.8,mb,,,,1.2,us,usp0004jd6,2014-11-07T00:47:38.223Z,Nepal,earthquake,,8.8,,9,reviewed,us,us
+1990-05-20T18:01:57.390Z,28.26,83.193,62.1,4.5,mb,,,,0.8,us,usp00049jd,2014-11-07T00:46:23.435Z,Nepal,earthquake,,20.2,,6,reviewed,us,us
+1990-05-20T09:10:02.320Z,28.458,83.343,33,4.8,mb,,,,0.8,us,usp00049hx,2014-11-07T00:46:23.236Z,Nepal,earthquake,,,,27,reviewed,us,us
+1990-02-21T07:21:17.300Z,28.082,82.43,33,4.8,mb,,,,1.2,us,usp00045qv,2014-11-07T00:45:47.214Z,Nepal,earthquake,,,,7,reviewed,us,us
+1990-02-09T15:51:23.020Z,29.925,80.73,33,4.6,mb,,,,1,us,usp000458a,2014-11-07T00:45:41.243Z,Nepal-India border region,earthquake,,,,15,reviewed,us,us
+1990-01-30T15:06:26.080Z,28.599,85.714,52.4,4.5,mb,,,,1.5,us,usp00044wj,2014-11-07T00:45:36.100Z,Xizang-Nepal border region,earthquake,,17.7,,3,reviewed,us,us
+1990-01-10T23:01:21.960Z,26.559,86.663,68.5,4.7,mb,,,,1.4,us,usp000443p,2014-11-07T00:45:31.693Z,Nepal-India border region,earthquake,,11.6,,4,reviewed,us,us
+1990-01-09T02:29:26.690Z,28.225,88.163,79.1,5.5,mb,,,,1,us,usp0004417,2020-08-28T23:19:14.448Z,western Xizang,earthquake,,,,53,reviewed,us,us

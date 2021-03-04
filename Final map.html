@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Earthquake Map</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+ 
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+
+</head>
+<body>
+
+    <input type="range" name="Year" value=0, min="0" max="398" oninput="moveSlider(this.value)">
+    
+    <div id="map" style="height: 300px;"></div>
+
+   <script src="C:\Users\sophi\Desktop\GEOG 456\Nepal Earthquake Mapping\Earthquakes 1990-2021.js"
+   
+   ></script>
+  
+    <script>
+
+        var mymap = L.map('map').setView([27.89512, 85.1], 7.3);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(mymap);
+
+        function moveSlider(e){console.log(e)
+
+        for (i = 0; i <= e; i++){
+     L.circle([Quakes.lat[i],Quakes.long[i]],{radius:Quakes.mag[i]*1000}).addTo(mymap)     
+        }
+        }
+        moveSlider(0)
+        
+  </script>
+  
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Earthquake Map, Nepal</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+ 
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+ 
+ <script src="Earthquakes.js"></script>
+
+</head>
+
+<style>
+    #map {
+        width: 1100px;
+         height: 900px;
+    }
+</style>
+
+<body>
+
+    <div id="map"></div>
+
+    <h3 id="time">Year</h3>
+    <input type="range" name="Year" min="1990-01-09T02:29:26.690Z" max="2021-02-04T05:06:23.654Z" oninput="moveSlider(this.value)">
+
+<script>
+
+var mymap = L.map('map').setView([27.89512, 85.1], 7.3);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(mymap)
+        
+        
+        var QuakeIcon = L.icon({
+        iconUrl: 'https://image.flaticon.com/icons/png/512/1296/1296031.png',
+        iconSize: [10,110],
+        popupAnchor: [0,0]
+    });
+
+    L.icon = function (options) {
+    return new L.Icon(options); 
+    };
+
+    </script>
+
+    <script>
+    var geojson = L.geoJson(Earthquakes, {
+        pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: QuakeIcon});
+    }})
+        .addTo(map);
+    </script>
+
+
+
+    <script>
+        function moveSlider(value) {
+            console.log(value)
+            document.getElementbyID('time').innerHTML =value
+        }
+
+</script>
+
+</body>
+</html>
