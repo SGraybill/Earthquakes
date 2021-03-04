@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <style>
+    .slidecontainer {
+      width: 100%;
+    }
+    
+    .slider {
+      -webkit-appearance: none;
+      width: 100%;
+      height: 25px;
+      background: #d3d3d3;
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+    }
+    
+    .slider:hover {
+      opacity: 1;
+    }
+    
+    .slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 25px;
+      height: 25px;
+      background: #4CAF50;
+      cursor: pointer;
+    }
+    
+    .slider::-moz-range-thumb {
+      width: 25px;
+      height: 25px;
+      background: #4CAF50;
+      cursor: pointer;
+    }
+    </style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Earthquake Map</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+ 
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+    <script src="NewData.geojson"></script>
+
+</head>
+
+<body>
+
+<div>
+  <div class="slidecontainer">
+      <input type="range" name="Year" min="1" max="20" value="1" class="slider" id="time">
+       Date: <span id="demo"></span>
+  </div>
+  </div>
+  <script>
+      var slider = document.getElementById("time");
+      var output = document.getElementById("demo");
+      output.innerHTML = EQuakes.features[0].properties.time;
+  </script>
+
+<div id="mapid"></div>
+    
+<style>
+    #mapid{ width: 900px; height: 500px; }
+</style>
+
+<script>  
+
+        var mymap = L.map('map').setView([27.89512, 85.1], 7.3);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(mymap);
+
+        var layer = L.marker([27.7172, 85.3240]).addTo(mymap)
+        .bindPopup('Kathmandu City, Nepal')
+        .openPopup();
+
+        var Earthquake = L.geoJSON(EQuakes.features[0], { 
+        pointToLayer: function (feature, latlng) { 
+        return L.marker(latlng);}
+        }).addTo(mymap);
+    mymap.addLayer(Earthquake) 
+
+
+    slider.oninput = function() {
+          output.innerHTML = EQuakes.features[(this.value-1)].properties.time;
+          Earthquake.remove();
+          
+        Earthquake = L.geoJSON(EQuakes.features.slice(0,this.value), 
+        {
+        pointToLayer: function (feature, latlng) { 
+        return L.marker(latlng);} 
+        })
+        map.addLayer(Earthquake); 
+        }
+ 
+        for (i = 0; i <= e; i++){
+     L.circle([EQuakes.lat[i],EQuakes.long[i]],{radius:EQuakes.mag[i]*1000}).addTo(mymap)     
+        }
+
+    </script>
+  
+</body>
+</html>
